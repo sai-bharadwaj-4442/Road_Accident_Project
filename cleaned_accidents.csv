@@ -1,0 +1,1251 @@
+State,City,Accident_Date,Time,Weather,Road_Type,Severity,Vehicles_Involved,Casualties,Latitude,Longitude,Hour,Time_Period
+Telangana,Hyderabad,15-01-2024,01-01-1900 08:00,heavy rain,city road,1,2,0,23.7119,83.5852,8,Morning
+Tamil Nadu,Chennai,16-09-2023,01-01-1900 19:00,heavy rain,highway,0,1,0,12.9293,86.5279,19,Evening
+UP,Kanpur,23-05-2023,01-01-1900 04:00,rain,highway,1,3,0,12.3294,87.669,4,Night
+Bihar,Bhagalpur,05-03-2023,01-01-1900 12:00,clear,highway,3,1,1,14.9092,79.0174,12,Afternoon
+Telangana,Hyderabad,19-03-2024,01-01-1900 03:00,clear,rural road,3,2,0,18.9111,80.2035,3,Night
+Telangana,Nizamabad,22-11-2023,01-01-1900 05:00,foggy,rural road,4,0,1,16.6743,81.03,5,Morning
+Andhra Pradesh,Guntur,25-02-2024,01-01-1900 01:00,foggy,national highway,1,3,0,15.1948,82.6566,1,Night
+UP,Varanasi,23-08-2023,01-01-1900 04:00,foggy,city road,3,1,1,21.7207,78.8758,4,Night
+Karnataka,Mangalore,10-09-2023,01-01-1900 02:00,rain,city road,2,1,0,22.9477,81.8417,2,Night
+Maharashtra,Nagpur,16-03-2024,01-01-1900 00:00,clear,highway,3,1,0,12.5502,87.0025,0,Night
+Maharashtra,Nagpur,26-01-2024,01-01-1900 05:00,clear,highway,2,2,0,16.9874,82.7207,5,Morning
+Andhra Pradesh,Visakhapatnam,08-09-2023,01-01-1900 00:00,nan,national highway,2,0,1,27.5134,85.5265,0,Night
+Telangana,Nizamabad,28-01-2024,01-01-1900 04:00,storm,expressway,2,2,1,13.4159,79.1558,4,Night
+Tamil Nadu,Madurai,09-06-2023,01-01-1900 12:00,storm,expressway,4,1,0,18.2188,79.9848,12,Afternoon
+Tamil Nadu,Chennai,06-02-2023,01-01-1900 22:00,heavy rain,highway,1,1,2,16.495,82.9697,22,Night
+Karnataka,Mangalore,23-04-2024,01-01-1900 18:00,heavy rain,rural road,4,2,0,13.1928,87.8558,18,Evening
+Andhra Pradesh,Vijayawada,01-02-2023,01-01-1900 12:00,rain,city road,2,1,1,12.0884,85.9701,12,Afternoon
+Telangana,Warangal,18-02-2024,01-01-1900 17:00,clear,highway,1,3,1,24.3403,77.8145,17,Evening
+Tamil Nadu,Coimbatore,07-04-2024,01-01-1900 01:00,foggy,highway,4,0,0,25.8097,83.8563,1,Night
+Bihar,Patna,08-04-2023,01-01-1900 09:00,clear,nan,1,1,0,16.9757,80.577,9,Morning
+Karnataka,Bengaluru,06-05-2024,01-01-1900 16:00,foggy,highway,1,2,2,26.1954,82.1944,16,Afternoon
+Andhra Pradesh,Vijayawada,03-08-2023,01-01-1900 21:00,clear,city road,3,2,0,24.1726,83.174,21,Night
+Telangana,Hyderabad,23-08-2023,01-01-1900 19:00,rain,expressway,2,1,2,20.3637,81.703,19,Evening
+Maharashtra,Mumbai,13-08-2023,01-01-1900 17:00,clear,highway,3,2,0,17.0297,82.5943,17,Evening
+Karnataka,Mysuru,25-05-2023,01-01-1900 19:00,rain,city road,3,1,1,18.5661,85.3111,19,Evening
+Maharashtra,Mumbai,02-01-2023,01-01-1900 10:00,clear,city road,4,1,0,26.8752,85.8893,10,Morning
+Karnataka,Mangalore,19-01-2023,01-01-1900 11:00,foggy,city road,1,3,1,24.8588,79.0523,11,Morning
+Tamil Nadu,Madurai,08-05-2023,01-01-1900 21:00,rain,expressway,4,2,1,24.919,86.857,21,Night
+Karnataka,Mysuru,13-01-2023,01-01-1900 05:00,foggy,highway,2,1,0,15.647,81.6982,5,Morning
+Tamil Nadu,Chennai,23-02-2024,01-01-1900 14:00,nan,city road,2,2,1,12.1112,82.6182,14,Afternoon
+Maharashtra,Pune,25-11-2023,01-01-1900 16:00,rain,highway,1,0,0,13.9178,80.7138,16,Afternoon
+UP,Kanpur,09-01-2024,01-01-1900 10:00,rain,rural road,2,1,1,20.3006,84.7332,10,Morning
+Tamil Nadu,Coimbatore,09-08-2023,01-01-1900 02:00,rain,highway,1,2,0,27.3992,79.7696,2,Night
+Maharashtra,Nagpur,07-03-2023,01-01-1900 06:00,foggy,highway,0,0,0,16.5574,77.4058,6,Morning
+UP,Varanasi,07-11-2023,01-01-1900 20:00,storm,rural road,4,2,3,12.8237,80.0651,20,Evening
+Telangana,Warangal,21-09-2023,01-01-1900 21:00,rain,city road,3,1,1,14.3183,82.384,21,Night
+Telangana,Warangal,01-08-2023,01-01-1900 20:00,foggy,rural road,4,3,1,15.8022,85.0104,20,Evening
+Telangana,Warangal,23-04-2023,01-01-1900 05:00,clear,expressway,2,3,0,22.1365,82.8935,5,Morning
+Delhi,Dwarka,10-11-2023,01-01-1900 23:00,storm,city road,4,0,0,12.6524,83.4998,23,Night
+Bihar,Bhagalpur,03-05-2023,01-01-1900 08:00,rain,highway,3,0,1,22.3228,78.918,8,Morning
+UP,Varanasi,20-03-2023,01-01-1900 22:00,rain,rural road,4,0,2,26.9877,78.5127,22,Night
+Andhra Pradesh,Tirupati,02-09-2023,01-01-1900 00:00,clear,rural road,4,1,0,26.7951,86.6507,0,Night
+Maharashtra,Pune,06-09-2023,01-01-1900 00:00,rain,highway,4,2,0,25.0756,83.1072,0,Night
+UP,Varanasi,16-10-2023,01-01-1900 21:00,rain,highway,4,0,1,13.4896,86.8694,21,Night
+Delhi,Dwarka,25-01-2024,01-01-1900 12:00,foggy,national highway,1,2,1,17.4245,80.8413,12,Afternoon
+Telangana,Nizamabad,21-01-2023,01-01-1900 00:00,heavy rain,highway,2,2,1,26.1934,85.5786,0,Night
+Maharashtra,Pune,27-03-2023,01-01-1900 19:00,foggy,national highway,1,1,1,14.5861,86.8841,19,Evening
+Tamil Nadu,Chennai,31-10-2023,01-01-1900 22:00,rain,highway,3,2,0,12.081,78.7689,22,Night
+Delhi,Rohini,08-08-2023,01-01-1900 21:00,nan,expressway,3,4,1,22.4314,79.467,21,Night
+Bihar,Bhagalpur,20-03-2023,01-01-1900 13:00,clear,expressway,4,0,1,17.2064,85.2114,13,Afternoon
+Telangana,Warangal,27-03-2024,01-01-1900 14:00,storm,expressway,4,3,1,22.5218,83.2514,14,Afternoon
+Maharashtra,Pune,24-05-2023,01-01-1900 19:00,clear,expressway,2,1,0,16.2432,79.6839,19,Evening
+Bihar,Gaya,10-02-2024,01-01-1900 00:00,clear,city road,4,1,1,26.2727,83.9425,0,Night
+UP,Varanasi,09-10-2023,01-01-1900 10:00,storm,national highway,3,2,2,21.2305,82.4177,10,Morning
+Karnataka,Bengaluru,21-04-2023,01-01-1900 23:00,clear,highway,3,2,0,16.4924,77.2675,23,Night
+Karnataka,Mysuru,24-01-2023,01-01-1900 01:00,foggy,nan,4,0,1,27.0473,87.4932,1,Night
+Andhra Pradesh,Visakhapatnam,26-04-2024,01-01-1900 15:00,nan,rural road,4,1,1,12.2473,87.2115,15,Afternoon
+Maharashtra,Mumbai,08-05-2023,01-01-1900 03:00,heavy rain,expressway,4,2,0,27.4179,86.3831,3,Night
+Andhra Pradesh,Vijayawada,30-04-2024,01-01-1900 06:00,clear,highway,0,0,0,25.6182,80.4861,6,Morning
+Bihar,Gaya,17-01-2023,01-01-1900 07:00,nan,highway,4,2,0,26.9785,84.6563,7,Morning
+Tamil Nadu,Coimbatore,28-02-2023,01-01-1900 17:00,nan,national highway,2,0,1,21.8401,87.8906,17,Evening
+Maharashtra,Pune,05-03-2023,01-01-1900 14:00,foggy,national highway,4,2,0,26.038,85.1485,14,Afternoon
+Andhra Pradesh,Vijayawada,28-04-2023,01-01-1900 21:00,clear,expressway,1,3,2,17.7519,80.2295,21,Night
+UP,Varanasi,21-02-2024,01-01-1900 15:00,storm,national highway,4,2,1,25.8732,87.0456,15,Afternoon
+Maharashtra,Nagpur,28-04-2024,01-01-1900 12:00,storm,highway,3,2,4,24.7727,84.1496,12,Afternoon
+Andhra Pradesh,Tirupati,31-07-2023,01-01-1900 01:00,rain,expressway,4,3,1,26.2401,80.7179,1,Night
+Bihar,Bhagalpur,06-09-2023,01-01-1900 03:00,heavy rain,nan,2,1,0,21.2525,77.3954,3,Night
+Telangana,Warangal,29-04-2024,01-01-1900 03:00,storm,highway,3,4,0,16.5847,83.4992,3,Night
+Karnataka,Mysuru,08-04-2023,01-01-1900 19:00,rain,national highway,0,1,2,14.033,82.7447,19,Evening
+Bihar,Patna,17-08-2023,01-01-1900 17:00,rain,national highway,4,1,1,21.9662,77.9388,17,Evening
+Tamil Nadu,Coimbatore,23-01-2023,01-01-1900 10:00,foggy,nan,2,2,0,20.6502,84.0117,10,Morning
+Bihar,Patna,27-09-2023,01-01-1900 14:00,nan,rural road,2,0,1,24.723,79.9792,14,Afternoon
+Telangana,Warangal,12-03-2024,01-01-1900 21:00,rain,nan,4,1,0,12.4056,87.5891,21,Night
+Tamil Nadu,Madurai,16-02-2023,01-01-1900 13:00,rain,rural road,2,2,1,18.5432,78.9062,13,Afternoon
+Delhi,Dwarka,16-03-2023,01-01-1900 07:00,nan,city road,2,1,0,20.7876,84.8606,7,Morning
+Karnataka,Bengaluru,25-08-2023,01-01-1900 20:00,storm,national highway,1,0,1,27.2778,85.1169,20,Evening
+Delhi,Rohini,03-06-2023,01-01-1900 20:00,clear,rural road,3,4,2,18.7136,79.725,20,Evening
+Maharashtra,Nagpur,01-06-2023,01-01-1900 00:00,clear,highway,1,3,0,12.2303,78.2768,0,Night
+Tamil Nadu,Madurai,15-02-2024,01-01-1900 11:00,heavy rain,expressway,3,2,1,19.5868,78.0762,11,Morning
+Andhra Pradesh,Visakhapatnam,08-02-2024,01-01-1900 14:00,rain,highway,2,1,0,14.7712,81.7724,14,Afternoon
+Delhi,Rohini,14-09-2023,01-01-1900 08:00,clear,rural road,3,3,0,22.1615,77.4983,8,Morning
+Tamil Nadu,Madurai,06-01-2024,01-01-1900 21:00,nan,highway,4,3,0,20.0502,86.4214,21,Night
+UP,Varanasi,26-04-2024,01-01-1900 11:00,heavy rain,rural road,1,0,1,13.1291,84.0666,11,Morning
+Bihar,Bhagalpur,04-06-2023,01-01-1900 20:00,rain,city road,1,2,0,27.0437,83.3302,20,Evening
+Karnataka,Mysuru,21-08-2023,01-01-1900 11:00,foggy,rural road,1,3,0,19.332,83.0018,11,Morning
+Tamil Nadu,Coimbatore,16-08-2023,01-01-1900 07:00,rain,highway,3,1,1,27.379,86.9589,7,Morning
+Telangana,Warangal,16-02-2023,01-01-1900 21:00,clear,highway,3,2,0,13.139,80.5087,21,Night
+Tamil Nadu,Madurai,21-04-2023,01-01-1900 07:00,foggy,expressway,1,1,1,13.8906,84.6641,7,Morning
+Telangana,Nizamabad,19-03-2024,01-01-1900 00:00,clear,nan,2,3,1,23.7611,85.8383,0,Night
+Telangana,Nizamabad,02-02-2023,01-01-1900 15:00,rain,expressway,1,1,0,24.0098,85.8752,15,Afternoon
+Maharashtra,Pune,26-11-2023,01-01-1900 00:00,storm,rural road,4,1,1,17.9523,85.5405,0,Night
+Karnataka,Bengaluru,06-03-2023,01-01-1900 08:00,foggy,expressway,3,2,0,25.7346,81.7189,8,Morning
+Tamil Nadu,Coimbatore,20-08-2023,01-01-1900 07:00,rain,rural road,4,2,1,13.65,86.9281,7,Morning
+Karnataka,Mangalore,17-04-2024,01-01-1900 15:00,rain,highway,1,3,1,17.1208,86.8508,15,Afternoon
+Delhi,Rohini,04-03-2023,01-01-1900 13:00,foggy,highway,1,2,0,27.2097,83.3078,13,Afternoon
+Bihar,Patna,09-03-2024,01-01-1900 03:00,rain,highway,3,1,3,16.6914,80.6153,3,Night
+Andhra Pradesh,Visakhapatnam,15-01-2023,01-01-1900 05:00,nan,national highway,3,3,1,24.6653,85.6858,5,Morning
+Andhra Pradesh,Vijayawada,18-01-2024,01-01-1900 16:00,foggy,rural road,4,1,0,12.9209,83.0448,16,Afternoon
+Telangana,Hyderabad,21-03-2023,01-01-1900 05:00,rain,national highway,4,3,0,17.6146,78.2877,5,Morning
+Telangana,Warangal,09-08-2023,01-01-1900 03:00,nan,expressway,0,2,0,21.8915,78.1123,3,Night
+Tamil Nadu,Chennai,27-01-2024,01-01-1900 08:00,rain,highway,1,2,0,13.1642,86.0405,8,Morning
+Delhi,New Delhi,23-07-2023,01-01-1900 23:00,foggy,highway,4,1,1,13.3574,87.853,23,Night
+UP,Kanpur,28-02-2023,01-01-1900 12:00,rain,city road,4,0,0,25.0048,87.4197,12,Afternoon
+UP,Varanasi,10-02-2023,01-01-1900 12:00,rain,city road,3,1,0,24.4344,83.1424,12,Afternoon
+Delhi,Dwarka,08-01-2024,01-01-1900 20:00,heavy rain,highway,2,3,0,13.7792,82.4189,20,Evening
+Bihar,Gaya,22-01-2024,01-01-1900 18:00,rain,nan,3,1,0,12.9009,78.307,18,Evening
+Andhra Pradesh,Visakhapatnam,17-09-2023,01-01-1900 02:00,nan,rural road,1,2,0,23.9367,83.4171,2,Night
+UP,Kanpur,25-10-2023,01-01-1900 17:00,storm,expressway,2,1,1,16.5714,86.5546,17,Evening
+Delhi,Rohini,13-02-2023,01-01-1900 16:00,clear,city road,4,2,1,13.1807,83.0924,16,Afternoon
+UP,Kanpur,01-02-2024,01-01-1900 10:00,rain,highway,3,2,1,22.0704,84.6532,10,Morning
+Karnataka,Mysuru,11-02-2023,01-01-1900 18:00,rain,national highway,4,4,0,21.349,86.9127,18,Evening
+Delhi,New Delhi,10-12-2023,01-01-1900 22:00,nan,expressway,3,4,0,16.4381,79.0693,22,Night
+Tamil Nadu,Chennai,12-03-2023,01-01-1900 04:00,clear,highway,1,0,0,21.3385,77.8551,4,Night
+Karnataka,Mangalore,30-01-2024,01-01-1900 19:00,storm,highway,4,2,2,16.9524,85.9517,19,Evening
+Bihar,Patna,01-10-2023,01-01-1900 07:00,storm,city road,3,0,1,26.5748,86.0479,7,Morning
+UP,Lucknow,23-02-2024,01-01-1900 06:00,clear,highway,4,0,2,26.9237,86.5267,6,Morning
+Maharashtra,Mumbai,26-01-2024,01-01-1900 05:00,storm,expressway,2,3,0,27.7964,78.6546,5,Morning
+Andhra Pradesh,Tirupati,28-01-2023,01-01-1900 12:00,heavy rain,nan,1,0,2,27.5186,86.2633,12,Afternoon
+Karnataka,Bengaluru,20-01-2023,01-01-1900 09:00,foggy,nan,4,1,2,18.6371,80.0075,9,Morning
+UP,Lucknow,02-02-2024,01-01-1900 09:00,clear,highway,1,2,1,24.3038,87.3924,9,Morning
+Bihar,Bhagalpur,02-10-2023,01-01-1900 00:00,nan,national highway,4,1,1,19.2087,78.4208,0,Night
+Delhi,New Delhi,03-05-2024,01-01-1900 16:00,foggy,rural road,0,2,1,15.6583,84.3887,16,Afternoon
+Delhi,New Delhi,11-01-2024,01-01-1900 21:00,rain,city road,1,0,2,13.8169,84.3873,21,Night
+Bihar,Bhagalpur,04-04-2023,01-01-1900 04:00,storm,highway,3,3,1,20.3226,86.374,4,Night
+UP,Varanasi,31-08-2023,01-01-1900 08:00,heavy rain,nan,3,4,2,26.0265,81.4383,8,Morning
+UP,Kanpur,16-01-2024,01-01-1900 14:00,rain,city road,4,2,2,23.2653,79.3426,14,Afternoon
+UP,Lucknow,09-08-2023,01-01-1900 19:00,clear,national highway,1,3,0,18.2759,81.8122,19,Evening
+Bihar,Gaya,17-08-2023,01-01-1900 01:00,nan,national highway,1,1,1,20.2238,85.6202,1,Night
+Andhra Pradesh,Guntur,10-03-2024,01-01-1900 19:00,clear,city road,1,3,0,25.7978,87.4447,19,Evening
+Karnataka,Mangalore,19-08-2023,01-01-1900 11:00,storm,highway,2,0,0,19.3462,87.7804,11,Morning
+Karnataka,Mysuru,23-09-2023,01-01-1900 12:00,clear,national highway,4,0,0,22.1344,79.6416,12,Afternoon
+Karnataka,Bengaluru,20-08-2023,01-01-1900 05:00,rain,highway,3,2,0,14.9101,80.8023,5,Morning
+Karnataka,Mangalore,30-12-2023,01-01-1900 22:00,rain,expressway,2,1,0,22.6809,78.8955,22,Night
+Delhi,Dwarka,16-02-2024,01-01-1900 17:00,rain,highway,3,1,0,14.8322,77.9757,17,Evening
+Telangana,Hyderabad,12-05-2024,01-01-1900 10:00,storm,rural road,3,1,0,15.3013,81.007,10,Morning
+Karnataka,Mysuru,15-09-2023,01-01-1900 01:00,foggy,national highway,2,4,1,12.629,85.7935,1,Night
+Maharashtra,Mumbai,09-05-2023,01-01-1900 06:00,foggy,highway,3,1,1,25.9773,87.1296,6,Morning
+Karnataka,Mangalore,16-11-2023,01-01-1900 23:00,nan,highway,1,1,0,24.8992,85.2309,23,Night
+UP,Varanasi,24-11-2023,01-01-1900 00:00,clear,highway,3,1,0,17.9276,82.3298,0,Night
+Andhra Pradesh,Guntur,14-08-2023,01-01-1900 13:00,storm,city road,3,0,2,19.4006,85.2222,13,Afternoon
+UP,Lucknow,25-01-2024,01-01-1900 11:00,rain,city road,4,2,1,20.1868,82.8532,11,Morning
+UP,Lucknow,07-05-2024,01-01-1900 05:00,rain,city road,2,1,0,20.5219,79.6672,5,Morning
+UP,Varanasi,23-08-2023,01-01-1900 07:00,rain,highway,1,1,0,12.3211,80.5429,7,Morning
+Andhra Pradesh,Vijayawada,09-08-2023,01-01-1900 04:00,nan,nan,3,1,0,13.9162,86.7958,4,Night
+UP,Varanasi,19-08-2023,01-01-1900 17:00,rain,city road,1,4,1,24.6267,82.4829,17,Evening
+Tamil Nadu,Madurai,18-09-2023,01-01-1900 12:00,clear,highway,2,2,0,21.3895,85.1998,12,Afternoon
+Karnataka,Mysuru,21-04-2024,01-01-1900 19:00,foggy,rural road,3,0,0,16.5404,80.9939,19,Evening
+Bihar,Patna,08-07-2023,01-01-1900 10:00,foggy,expressway,0,3,2,17.6975,87.8517,10,Morning
+Tamil Nadu,Madurai,27-01-2023,01-01-1900 18:00,foggy,expressway,4,0,1,13.6285,78.6815,18,Evening
+Andhra Pradesh,Tirupati,10-06-2023,01-01-1900 13:00,foggy,highway,2,1,0,14.9851,80.136,13,Afternoon
+Andhra Pradesh,Guntur,23-09-2023,01-01-1900 06:00,storm,expressway,4,2,0,18.5663,87.8062,6,Morning
+Maharashtra,Nagpur,05-09-2023,01-01-1900 06:00,clear,expressway,3,1,0,27.5115,86.5206,6,Morning
+Bihar,Gaya,03-09-2023,01-01-1900 11:00,clear,highway,4,1,1,14.7342,84.3551,11,Morning
+Andhra Pradesh,Visakhapatnam,04-05-2024,01-01-1900 22:00,rain,rural road,3,2,1,21.1458,80.0798,22,Night
+Maharashtra,Mumbai,25-02-2023,01-01-1900 19:00,heavy rain,nan,2,1,1,17.1789,81.6798,19,Evening
+Karnataka,Bengaluru,08-05-2024,01-01-1900 17:00,foggy,highway,4,0,1,13.8374,83.7168,17,Evening
+Telangana,Nizamabad,21-10-2023,01-01-1900 07:00,foggy,nan,2,2,0,14.4698,82.2925,7,Morning
+Maharashtra,Mumbai,05-01-2023,01-01-1900 09:00,rain,national highway,4,1,1,17.3857,78.4786,9,Morning
+Bihar,Gaya,09-04-2023,01-01-1900 03:00,foggy,highway,4,3,0,16.0743,84.4965,3,Night
+Tamil Nadu,Chennai,09-11-2023,01-01-1900 20:00,foggy,expressway,3,2,2,19.5452,81.5303,20,Evening
+Tamil Nadu,Chennai,14-05-2023,01-01-1900 12:00,storm,national highway,3,2,0,25.2899,87.6153,12,Afternoon
+Andhra Pradesh,Vijayawada,27-08-2023,01-01-1900 09:00,foggy,highway,3,2,0,27.0134,78.9936,9,Morning
+Karnataka,Mysuru,20-03-2023,01-01-1900 14:00,foggy,highway,4,2,0,21.1916,86.2601,14,Afternoon
+Telangana,Nizamabad,17-08-2023,01-01-1900 16:00,nan,expressway,1,2,0,15.226,78.8002,16,Afternoon
+Delhi,Rohini,15-08-2023,01-01-1900 03:00,storm,highway,4,2,0,22.6432,82.7537,3,Night
+Bihar,Bhagalpur,18-02-2024,01-01-1900 09:00,foggy,national highway,1,3,0,18.2791,85.9826,9,Morning
+Andhra Pradesh,Vijayawada,23-04-2024,01-01-1900 15:00,clear,rural road,2,0,0,19.4029,80.3152,15,Afternoon
+UP,Kanpur,21-03-2024,01-01-1900 12:00,rain,highway,2,2,2,15.7154,86.8953,12,Afternoon
+Tamil Nadu,Chennai,23-01-2024,01-01-1900 00:00,storm,highway,4,2,1,26.5036,83.8666,0,Night
+Telangana,Hyderabad,19-02-2024,01-01-1900 21:00,nan,city road,2,0,2,14.2284,85.7343,21,Night
+Tamil Nadu,Madurai,23-01-2023,01-01-1900 12:00,heavy rain,expressway,2,2,3,26.3023,85.6746,12,Afternoon
+Delhi,Rohini,03-11-2023,01-01-1900 21:00,heavy rain,national highway,2,1,0,15.9758,85.1834,21,Night
+Karnataka,Mangalore,14-12-2023,01-01-1900 13:00,clear,national highway,4,2,0,24.1993,86.6444,13,Afternoon
+Bihar,Patna,10-03-2024,01-01-1900 07:00,foggy,rural road,1,3,0,13.7701,86.311,7,Morning
+Tamil Nadu,Coimbatore,28-11-2023,01-01-1900 02:00,nan,highway,2,1,0,24.7567,78.6491,2,Night
+Tamil Nadu,Coimbatore,17-04-2023,01-01-1900 10:00,clear,city road,2,2,0,23.5206,84.0526,10,Morning
+Tamil Nadu,Coimbatore,13-04-2024,01-01-1900 07:00,clear,rural road,4,2,2,16.0288,80.8027,7,Morning
+Telangana,Nizamabad,29-08-2023,01-01-1900 10:00,nan,national highway,0,0,2,19.3921,87.4201,10,Morning
+UP,Kanpur,20-03-2023,01-01-1900 06:00,heavy rain,rural road,2,2,0,20.0942,83.726,6,Morning
+Bihar,Gaya,28-03-2023,01-01-1900 23:00,foggy,city road,4,2,1,23.1464,87.1475,23,Night
+Telangana,Nizamabad,25-01-2023,01-01-1900 00:00,nan,highway,2,1,1,21.2206,83.6739,0,Night
+Bihar,Bhagalpur,07-09-2023,01-01-1900 00:00,foggy,highway,0,3,0,26.9499,87.1813,0,Night
+UP,Lucknow,24-02-2023,01-01-1900 03:00,heavy rain,city road,3,0,0,27.7575,86.2279,3,Night
+Tamil Nadu,Madurai,26-04-2023,01-01-1900 09:00,clear,highway,0,2,2,21.4604,81.389,9,Morning
+Bihar,Gaya,27-11-2023,01-01-1900 10:00,clear,city road,2,1,0,24.8457,77.051,10,Morning
+Maharashtra,Nagpur,16-10-2023,01-01-1900 21:00,foggy,national highway,1,0,0,20.5983,87.1184,21,Night
+Telangana,Warangal,25-03-2023,01-01-1900 18:00,foggy,highway,3,0,0,23.8,81.9744,18,Evening
+Delhi,New Delhi,20-02-2023,01-01-1900 13:00,rain,national highway,4,1,0,14.2537,78.9403,13,Afternoon
+Tamil Nadu,Coimbatore,11-10-2023,01-01-1900 12:00,foggy,highway,4,1,0,26.6375,80.9863,12,Afternoon
+Karnataka,Mysuru,31-12-2023,01-01-1900 20:00,foggy,nan,3,4,2,12.2095,84.2989,20,Evening
+Karnataka,Bengaluru,06-04-2023,01-01-1900 13:00,foggy,highway,1,1,0,13.3656,87.9656,13,Afternoon
+Andhra Pradesh,Visakhapatnam,31-07-2023,01-01-1900 12:00,heavy rain,expressway,2,5,1,13.0732,85.2496,12,Afternoon
+Karnataka,Mysuru,22-05-2023,01-01-1900 13:00,storm,highway,3,2,0,15.2822,79.0976,13,Afternoon
+Telangana,Hyderabad,05-06-2023,01-01-1900 00:00,rain,expressway,4,1,0,21.0375,77.7228,0,Night
+Karnataka,Mysuru,14-06-2023,01-01-1900 19:00,storm,national highway,2,1,2,20.3902,81.8484,19,Evening
+Tamil Nadu,Coimbatore,12-07-2023,01-01-1900 08:00,rain,highway,2,3,1,14.4838,79.0012,8,Morning
+Bihar,Bhagalpur,18-04-2023,01-01-1900 14:00,rain,rural road,4,0,0,22.304,81.4961,14,Afternoon
+UP,Lucknow,18-08-2023,01-01-1900 19:00,foggy,expressway,4,3,2,12.4335,79.4417,19,Evening
+Telangana,Hyderabad,29-01-2024,01-01-1900 07:00,foggy,highway,1,2,0,12.3154,78.1452,7,Morning
+UP,Lucknow,06-01-2023,01-01-1900 03:00,heavy rain,expressway,2,1,1,22.4439,79.62,3,Night
+Delhi,New Delhi,05-09-2023,01-01-1900 03:00,foggy,highway,1,1,0,23.5563,86.4127,3,Night
+Bihar,Gaya,01-09-2023,01-01-1900 03:00,storm,national highway,1,1,2,22.6894,79.2548,3,Night
+Karnataka,Mangalore,05-05-2023,01-01-1900 16:00,foggy,national highway,4,2,0,12.208,77.9406,16,Afternoon
+UP,Kanpur,15-01-2023,01-01-1900 23:00,storm,expressway,4,2,0,18.7428,86.8194,23,Night
+Telangana,Nizamabad,22-02-2023,01-01-1900 17:00,rain,national highway,2,1,2,16.1508,81.1766,17,Evening
+UP,Varanasi,20-07-2023,01-01-1900 18:00,rain,national highway,4,0,1,21.9864,81.5035,18,Evening
+Telangana,Nizamabad,10-03-2023,01-01-1900 10:00,heavy rain,national highway,1,0,2,16.7115,87.433,10,Morning
+UP,Kanpur,06-04-2023,01-01-1900 15:00,foggy,rural road,3,1,1,25.8955,82.3617,15,Afternoon
+Andhra Pradesh,Tirupati,11-03-2023,01-01-1900 06:00,storm,rural road,4,2,0,18.8034,77.2472,6,Morning
+Tamil Nadu,Coimbatore,17-01-2023,01-01-1900 08:00,clear,city road,4,2,0,22.1357,79.8368,8,Morning
+Maharashtra,Nagpur,26-02-2024,01-01-1900 11:00,storm,expressway,2,2,0,27.7504,82.7826,11,Morning
+Andhra Pradesh,Tirupati,15-05-2023,01-01-1900 11:00,storm,highway,2,1,0,12.2943,87.0573,11,Morning
+UP,Lucknow,12-11-2023,01-01-1900 04:00,heavy rain,highway,3,2,0,16.3849,83.096,4,Night
+Maharashtra,Nagpur,05-04-2024,01-01-1900 21:00,foggy,rural road,1,3,1,15.3027,77.121,21,Night
+Delhi,New Delhi,25-01-2024,01-01-1900 21:00,storm,city road,3,2,1,21.6083,84.3154,21,Night
+UP,Varanasi,19-01-2024,01-01-1900 08:00,storm,rural road,3,0,0,20.3027,77.5166,8,Morning
+Delhi,New Delhi,12-02-2024,01-01-1900 17:00,heavy rain,rural road,2,2,0,13.3248,83.6347,17,Evening
+Bihar,Gaya,02-04-2024,01-01-1900 21:00,nan,highway,4,1,0,16.6191,80.9124,21,Night
+UP,Lucknow,19-12-2023,01-01-1900 04:00,foggy,national highway,1,0,2,21.0625,82.2366,4,Night
+UP,Varanasi,06-06-2023,01-01-1900 23:00,foggy,nan,1,2,1,23.7212,79.3643,23,Night
+Bihar,Patna,05-01-2023,01-01-1900 22:00,rain,rural road,2,1,1,19.9419,83.5653,22,Night
+Delhi,Dwarka,12-03-2023,01-01-1900 12:00,foggy,highway,1,3,0,13.7056,77.8265,12,Afternoon
+UP,Varanasi,18-12-2023,01-01-1900 14:00,rain,highway,2,1,2,23.0144,81.7831,14,Afternoon
+Karnataka,Bengaluru,22-05-2023,01-01-1900 20:00,heavy rain,expressway,3,2,0,24.7907,84.6417,20,Evening
+Tamil Nadu,Madurai,20-07-2023,01-01-1900 09:00,heavy rain,rural road,4,2,0,17.7756,78.0074,9,Morning
+Delhi,Dwarka,09-03-2023,01-01-1900 12:00,rain,expressway,0,1,1,14.9621,82.9609,12,Afternoon
+Maharashtra,Mumbai,21-01-2023,01-01-1900 01:00,clear,highway,4,2,1,24.905,84.2466,1,Night
+Telangana,Warangal,10-02-2023,01-01-1900 16:00,foggy,expressway,3,3,1,15.9947,82.3837,16,Afternoon
+UP,Varanasi,03-05-2024,01-01-1900 07:00,heavy rain,highway,4,2,1,14.8892,83.2474,7,Morning
+Karnataka,Bengaluru,07-01-2023,01-01-1900 22:00,clear,city road,4,0,2,26.7903,87.6816,22,Night
+Karnataka,Mangalore,04-02-2024,01-01-1900 08:00,clear,nan,4,1,1,25.7927,86.29,8,Morning
+Bihar,Bhagalpur,04-07-2023,01-01-1900 01:00,foggy,national highway,2,3,0,12.5921,83.559,1,Night
+Andhra Pradesh,Vijayawada,15-03-2024,01-01-1900 00:00,clear,rural road,3,1,0,13.2313,84.6592,0,Night
+UP,Lucknow,14-06-2023,01-01-1900 07:00,rain,national highway,1,3,0,13.0457,80.4682,7,Morning
+Andhra Pradesh,Tirupati,05-02-2023,01-01-1900 14:00,clear,nan,1,3,1,17.1,83.8848,14,Afternoon
+Tamil Nadu,Coimbatore,08-07-2023,01-01-1900 18:00,heavy rain,highway,2,2,1,15.7274,77.2684,18,Evening
+Andhra Pradesh,Visakhapatnam,01-01-2023,01-01-1900 21:00,clear,highway,2,2,2,27.0251,85.7866,21,Night
+Maharashtra,Mumbai,23-01-2023,01-01-1900 07:00,rain,rural road,1,1,2,19.678,83.9026,7,Morning
+Andhra Pradesh,Tirupati,06-12-2023,01-01-1900 04:00,clear,national highway,3,1,2,18.7417,85.1134,4,Night
+Tamil Nadu,Chennai,28-04-2024,01-01-1900 06:00,rain,city road,1,1,0,17.674,80.1596,6,Morning
+Tamil Nadu,Coimbatore,07-06-2023,01-01-1900 14:00,rain,highway,2,0,0,12.6735,77.1966,14,Afternoon
+Delhi,New Delhi,16-02-2023,01-01-1900 22:00,rain,rural road,1,1,1,18.1492,84.4761,22,Night
+Bihar,Bhagalpur,19-01-2024,01-01-1900 17:00,rain,rural road,1,3,0,27.1157,82.1414,17,Evening
+Karnataka,Bengaluru,26-02-2024,01-01-1900 12:00,rain,expressway,3,0,1,27.8587,79.5484,12,Afternoon
+Karnataka,Bengaluru,08-04-2024,01-01-1900 10:00,clear,rural road,1,2,0,21.7238,82.6396,10,Morning
+UP,Lucknow,01-07-2023,01-01-1900 06:00,clear,nan,4,1,0,15.5278,79.0508,6,Morning
+UP,Varanasi,03-09-2023,01-01-1900 01:00,clear,rural road,2,1,2,12.9255,87.6601,1,Night
+Andhra Pradesh,Tirupati,05-02-2024,01-01-1900 22:00,storm,expressway,4,3,0,23.1363,78.6929,22,Night
+Tamil Nadu,Chennai,03-04-2024,01-01-1900 08:00,storm,expressway,3,1,1,15.5811,82.9067,8,Morning
+Maharashtra,Nagpur,22-02-2024,01-01-1900 23:00,heavy rain,expressway,4,3,2,13.4638,86.6521,23,Night
+Delhi,Rohini,15-01-2023,01-01-1900 22:00,foggy,expressway,2,1,0,26.22,87.5122,22,Night
+Andhra Pradesh,Vijayawada,29-01-2023,01-01-1900 07:00,nan,expressway,4,2,1,22.4839,83.0594,7,Morning
+Delhi,New Delhi,12-01-2023,01-01-1900 04:00,rain,expressway,3,1,0,17.963,79.8573,4,Night
+Maharashtra,Pune,11-03-2023,01-01-1900 05:00,storm,highway,3,1,2,13.2967,79.422,5,Morning
+Tamil Nadu,Madurai,29-10-2023,01-01-1900 05:00,clear,highway,3,1,1,25.6193,82.4466,5,Morning
+Andhra Pradesh,Guntur,05-11-2023,01-01-1900 10:00,rain,rural road,2,5,0,25.1949,80.8259,10,Morning
+Telangana,Nizamabad,10-12-2023,01-01-1900 20:00,storm,highway,3,2,2,16.2725,86.6649,20,Evening
+Andhra Pradesh,Tirupati,13-08-2023,01-01-1900 23:00,foggy,rural road,4,2,2,25.6093,86.5402,23,Night
+Tamil Nadu,Chennai,20-08-2023,01-01-1900 02:00,clear,highway,3,2,1,23.1595,84.4815,2,Night
+Telangana,Nizamabad,27-04-2024,01-01-1900 02:00,storm,highway,1,3,1,14.5377,86.6896,2,Night
+Delhi,New Delhi,13-05-2024,01-01-1900 06:00,clear,highway,3,1,1,17.3619,85.1786,6,Morning
+Andhra Pradesh,Visakhapatnam,02-01-2023,01-01-1900 13:00,clear,nan,4,2,0,25.3141,82.5821,13,Afternoon
+Telangana,Warangal,06-02-2024,01-01-1900 12:00,storm,highway,3,2,1,22.109,79.8578,12,Afternoon
+Bihar,Patna,15-05-2023,01-01-1900 14:00,clear,city road,3,2,3,24.4775,78.1768,14,Afternoon
+UP,Varanasi,27-04-2023,01-01-1900 17:00,foggy,expressway,4,2,2,27.4079,80.7606,17,Evening
+Maharashtra,Mumbai,22-07-2023,01-01-1900 22:00,foggy,highway,4,2,1,13.6402,87.3095,22,Night
+UP,Lucknow,16-12-2023,01-01-1900 13:00,foggy,expressway,3,1,1,16.8154,84.7899,13,Afternoon
+Delhi,Dwarka,24-09-2023,01-01-1900 14:00,foggy,highway,4,2,0,17.5341,83.8301,14,Afternoon
+Telangana,Nizamabad,04-02-2024,01-01-1900 03:00,rain,rural road,3,1,1,24.1322,77.2705,3,Night
+Karnataka,Mangalore,08-11-2023,01-01-1900 21:00,clear,nan,3,3,0,22.9327,81.9049,21,Night
+Delhi,Dwarka,09-06-2023,01-01-1900 08:00,rain,city road,2,0,1,14.618,85.7429,8,Morning
+Telangana,Hyderabad,15-08-2023,01-01-1900 06:00,storm,expressway,3,0,1,13.3181,84.4855,6,Morning
+Karnataka,Mangalore,26-03-2024,01-01-1900 18:00,foggy,city road,2,0,1,27.2138,78.6616,18,Evening
+Maharashtra,Pune,26-02-2024,01-01-1900 14:00,rain,highway,1,2,0,18.7156,84.0238,14,Afternoon
+Delhi,Dwarka,25-03-2023,01-01-1900 08:00,nan,highway,4,0,0,27.7436,81.5027,8,Morning
+Tamil Nadu,Madurai,16-04-2023,01-01-1900 08:00,clear,highway,1,1,1,15.4097,77.3425,8,Morning
+Maharashtra,Nagpur,10-05-2024,01-01-1900 22:00,foggy,rural road,3,0,2,25.8297,82.2053,22,Night
+Telangana,Hyderabad,19-09-2023,01-01-1900 21:00,clear,national highway,1,2,1,24.3347,86.2926,21,Night
+Maharashtra,Mumbai,18-03-2023,01-01-1900 16:00,clear,expressway,4,2,2,14.0999,77.3578,16,Afternoon
+Maharashtra,Pune,27-07-2023,01-01-1900 12:00,heavy rain,national highway,2,2,1,24.7446,82.2967,12,Afternoon
+Maharashtra,Mumbai,06-03-2024,01-01-1900 21:00,clear,highway,4,1,2,15.2084,82.4075,21,Night
+Delhi,Rohini,15-02-2023,01-01-1900 07:00,heavy rain,highway,3,2,0,16.3039,85.7732,7,Morning
+Telangana,Warangal,28-01-2023,01-01-1900 20:00,storm,city road,1,1,0,12.1859,77.7969,20,Evening
+Karnataka,Bengaluru,25-06-2023,01-01-1900 13:00,foggy,national highway,2,1,1,21.6003,80.2083,13,Afternoon
+Andhra Pradesh,Tirupati,21-05-2023,01-01-1900 06:00,foggy,rural road,1,2,1,24.4776,77.4358,6,Morning
+Andhra Pradesh,Vijayawada,01-10-2023,01-01-1900 06:00,nan,nan,2,0,0,15.8727,87.8533,6,Morning
+Maharashtra,Mumbai,22-02-2023,01-01-1900 12:00,foggy,highway,1,1,0,21.8905,84.7271,12,Afternoon
+Karnataka,Mysuru,06-04-2024,01-01-1900 15:00,nan,city road,4,1,0,17.2234,82.6948,15,Afternoon
+Karnataka,Bengaluru,07-07-2023,01-01-1900 22:00,foggy,highway,3,1,0,12.5312,77.8644,22,Night
+Andhra Pradesh,Vijayawada,20-12-2023,01-01-1900 03:00,storm,rural road,1,0,0,21.0807,84.5841,3,Night
+Maharashtra,Pune,05-12-2023,01-01-1900 03:00,foggy,rural road,1,1,1,14.6797,78.1502,3,Night
+Tamil Nadu,Coimbatore,01-03-2024,01-01-1900 16:00,rain,nan,4,3,1,12.5054,87.2983,16,Afternoon
+Delhi,New Delhi,02-01-2023,01-01-1900 00:00,rain,expressway,4,2,0,23.345,86.5807,0,Night
+Maharashtra,Nagpur,29-04-2023,01-01-1900 14:00,clear,rural road,1,3,1,17.4312,85.9631,14,Afternoon
+Delhi,Dwarka,14-01-2024,01-01-1900 03:00,clear,highway,2,3,1,19.2371,84.0794,3,Night
+Telangana,Warangal,22-02-2024,01-01-1900 10:00,rain,rural road,4,4,1,13.3061,77.6639,10,Morning
+Karnataka,Bengaluru,09-03-2023,01-01-1900 22:00,foggy,highway,4,1,0,25.9485,79.4114,22,Night
+Delhi,Rohini,15-01-2023,01-01-1900 21:00,storm,rural road,1,2,0,22.5393,82.4802,21,Night
+Tamil Nadu,Madurai,23-03-2024,01-01-1900 10:00,foggy,highway,2,4,1,15.6553,87.9597,10,Morning
+Andhra Pradesh,Vijayawada,26-11-2023,01-01-1900 05:00,storm,city road,1,2,1,15.1927,84.4825,5,Morning
+UP,Kanpur,23-02-2024,01-01-1900 07:00,storm,rural road,4,1,0,25.8924,84.9989,7,Morning
+Andhra Pradesh,Vijayawada,26-07-2023,01-01-1900 13:00,clear,highway,3,1,2,17.535,81.0814,13,Afternoon
+Andhra Pradesh,Guntur,08-03-2024,01-01-1900 14:00,storm,highway,3,2,2,19.0178,84.9778,14,Afternoon
+Maharashtra,Nagpur,25-09-2023,01-01-1900 11:00,clear,city road,4,3,0,26.4112,81.6389,11,Morning
+Tamil Nadu,Chennai,21-04-2024,01-01-1900 12:00,storm,city road,3,2,0,26.5978,79.3173,12,Afternoon
+Bihar,Gaya,04-12-2023,01-01-1900 18:00,storm,highway,1,3,2,23.7298,78.4472,18,Evening
+Karnataka,Mangalore,24-10-2023,01-01-1900 05:00,rain,rural road,3,2,1,14.8749,79.613,5,Morning
+Maharashtra,Pune,08-05-2024,01-01-1900 10:00,storm,city road,2,1,2,15.9557,86.5782,10,Morning
+Delhi,Rohini,13-01-2024,01-01-1900 17:00,heavy rain,city road,3,2,1,17.7477,83.5225,17,Evening
+Karnataka,Mangalore,05-10-2023,01-01-1900 22:00,rain,national highway,4,1,0,27.5106,79.8395,22,Night
+Maharashtra,Pune,18-02-2024,01-01-1900 00:00,nan,nan,2,0,2,24.3756,78.4396,0,Night
+Maharashtra,Mumbai,05-03-2024,01-01-1900 01:00,heavy rain,expressway,1,1,1,15.7768,77.8085,1,Night
+Tamil Nadu,Madurai,28-11-2023,01-01-1900 17:00,heavy rain,nan,3,2,0,17.3921,86.1177,17,Evening
+Delhi,Rohini,28-01-2023,01-01-1900 00:00,heavy rain,expressway,4,0,0,21.8743,84.7745,0,Night
+Tamil Nadu,Madurai,08-05-2024,01-01-1900 06:00,storm,city road,1,1,0,12.5867,85.1004,6,Morning
+Maharashtra,Mumbai,24-03-2023,01-01-1900 18:00,clear,national highway,4,1,3,25.5067,85.8624,18,Evening
+Maharashtra,Pune,09-02-2024,01-01-1900 18:00,rain,highway,3,3,1,15.2935,78.2311,18,Evening
+UP,Lucknow,28-06-2023,01-01-1900 07:00,rain,national highway,3,1,0,20.4987,87.3027,7,Morning
+Andhra Pradesh,Vijayawada,09-12-2023,01-01-1900 11:00,heavy rain,highway,2,2,0,17.0585,82.5796,11,Morning
+UP,Kanpur,04-10-2023,01-01-1900 23:00,clear,expressway,3,3,1,19.2758,82.6716,23,Night
+Delhi,Rohini,12-02-2023,01-01-1900 03:00,clear,highway,1,4,0,14.2344,77.3297,3,Night
+Tamil Nadu,Madurai,29-02-2024,01-01-1900 22:00,nan,highway,2,3,0,15.2297,84.4078,22,Night
+Maharashtra,Nagpur,06-02-2023,01-01-1900 18:00,clear,rural road,4,1,2,25.8903,78.9486,18,Evening
+Andhra Pradesh,Vijayawada,23-01-2024,01-01-1900 23:00,rain,national highway,1,3,1,27.1138,84.5157,23,Night
+UP,Kanpur,25-02-2024,01-01-1900 21:00,storm,city road,2,4,0,25.9025,83.2767,21,Night
+Karnataka,Mysuru,13-12-2023,01-01-1900 23:00,clear,nan,2,3,2,15.4508,84.2477,23,Night
+Maharashtra,Mumbai,19-01-2024,01-01-1900 23:00,heavy rain,rural road,2,3,0,13.7055,84.2363,23,Night
+Andhra Pradesh,Tirupati,27-11-2023,01-01-1900 17:00,clear,highway,1,1,1,25.9321,85.6062,17,Evening
+Tamil Nadu,Chennai,26-05-2023,01-01-1900 19:00,heavy rain,national highway,4,3,1,26.0562,81.4455,19,Evening
+Delhi,Dwarka,05-05-2024,01-01-1900 13:00,clear,national highway,2,3,0,24.9255,85.3851,13,Afternoon
+Delhi,Dwarka,25-08-2023,01-01-1900 14:00,clear,rural road,1,1,2,25.0853,78.3223,14,Afternoon
+Tamil Nadu,Coimbatore,11-01-2024,01-01-1900 20:00,rain,highway,1,1,0,17.1934,81.0311,20,Evening
+Maharashtra,Nagpur,02-04-2024,01-01-1900 17:00,foggy,national highway,4,3,0,18.2169,81.9356,17,Evening
+Telangana,Warangal,06-07-2023,01-01-1900 16:00,heavy rain,expressway,2,1,0,15.6363,77.8052,16,Afternoon
+Karnataka,Mangalore,10-01-2024,01-01-1900 15:00,clear,city road,4,3,2,21.9118,82.0984,15,Afternoon
+Delhi,Dwarka,29-08-2023,01-01-1900 14:00,clear,highway,3,3,0,20.3053,82.271,14,Afternoon
+Karnataka,Mysuru,01-12-2023,01-01-1900 12:00,rain,expressway,3,0,0,21.2828,82.8696,12,Afternoon
+Bihar,Gaya,30-03-2024,01-01-1900 19:00,foggy,rural road,2,3,1,25.0078,84.8994,19,Evening
+Telangana,Nizamabad,28-04-2023,01-01-1900 13:00,rain,rural road,4,2,1,15.8957,87.1974,13,Afternoon
+Karnataka,Mangalore,31-10-2023,01-01-1900 05:00,nan,expressway,2,1,0,19.7739,79.8245,5,Morning
+Andhra Pradesh,Visakhapatnam,29-04-2024,01-01-1900 02:00,storm,expressway,4,0,0,24.8484,82.9308,2,Night
+Karnataka,Mangalore,04-12-2023,01-01-1900 16:00,foggy,highway,3,3,0,23.4584,79.9989,16,Afternoon
+Andhra Pradesh,Guntur,25-09-2023,01-01-1900 16:00,foggy,expressway,1,0,0,14.8984,84.4923,16,Afternoon
+Telangana,Hyderabad,04-09-2023,01-01-1900 21:00,clear,highway,4,2,0,23.3447,78.1756,21,Night
+Bihar,Gaya,29-06-2023,01-01-1900 18:00,foggy,city road,3,0,1,27.4068,82.319,18,Evening
+UP,Kanpur,07-04-2023,01-01-1900 00:00,rain,expressway,1,2,2,12.6946,83.9647,0,Night
+UP,Varanasi,27-10-2023,01-01-1900 08:00,foggy,expressway,3,2,1,25.107,86.7263,8,Morning
+Bihar,Patna,09-07-2023,01-01-1900 17:00,clear,national highway,3,1,0,21.7757,81.5213,17,Evening
+Tamil Nadu,Coimbatore,05-02-2024,01-01-1900 22:00,rain,city road,4,0,0,24.4884,80.0229,22,Night
+UP,Varanasi,03-01-2023,01-01-1900 02:00,storm,expressway,4,1,2,22.6808,78.0509,2,Night
+UP,Varanasi,02-12-2023,01-01-1900 16:00,clear,city road,4,0,3,21.3857,78.8482,16,Afternoon
+Andhra Pradesh,Guntur,11-11-2023,01-01-1900 05:00,rain,city road,1,2,1,15.4678,78.0529,5,Morning
+UP,Varanasi,13-04-2023,01-01-1900 16:00,rain,highway,3,2,0,21.7135,83.0137,16,Afternoon
+Tamil Nadu,Madurai,08-05-2024,01-01-1900 06:00,foggy,expressway,1,1,0,21.5116,82.4644,6,Morning
+Telangana,Nizamabad,04-05-2024,01-01-1900 08:00,storm,rural road,4,1,2,18.8512,84.8936,8,Morning
+Andhra Pradesh,Tirupati,01-03-2023,01-01-1900 08:00,foggy,highway,2,2,2,16.3866,77.8736,8,Morning
+Andhra Pradesh,Visakhapatnam,08-05-2023,01-01-1900 09:00,nan,highway,3,1,0,15.6265,80.905,9,Morning
+Maharashtra,Mumbai,29-04-2024,01-01-1900 23:00,storm,highway,2,2,0,13.0818,85.8039,23,Night
+Delhi,New Delhi,03-02-2024,01-01-1900 03:00,rain,highway,4,2,0,26.0813,84.1597,3,Night
+Delhi,Dwarka,04-04-2024,01-01-1900 18:00,storm,city road,3,0,1,17.328,84.3644,18,Evening
+Andhra Pradesh,Visakhapatnam,21-07-2023,01-01-1900 21:00,storm,nan,4,4,1,19.4433,77.6616,21,Night
+Delhi,Rohini,17-03-2024,01-01-1900 08:00,clear,city road,3,2,1,14.8048,84.5901,8,Morning
+Delhi,Dwarka,13-03-2024,01-01-1900 12:00,storm,city road,2,2,0,13.5468,81.9541,12,Afternoon
+UP,Kanpur,11-04-2023,01-01-1900 04:00,storm,highway,2,1,2,22.6386,85.7499,4,Night
+Delhi,Dwarka,03-06-2023,01-01-1900 08:00,nan,highway,2,0,0,27.8797,87.197,8,Morning
+Delhi,Dwarka,04-07-2023,01-01-1900 11:00,rain,highway,4,3,1,20.3353,83.8594,11,Morning
+Karnataka,Mysuru,01-07-2023,01-01-1900 10:00,storm,highway,4,2,0,14.0434,86.0867,10,Morning
+Delhi,Dwarka,20-11-2023,01-01-1900 19:00,rain,highway,2,2,1,12.5786,80.3344,19,Evening
+UP,Kanpur,30-03-2024,01-01-1900 14:00,storm,nan,2,1,0,13.4023,87.3065,14,Afternoon
+Telangana,Hyderabad,27-03-2023,01-01-1900 12:00,rain,nan,4,0,1,18.3517,81.9192,12,Afternoon
+Maharashtra,Nagpur,21-03-2023,01-01-1900 02:00,clear,city road,2,2,3,26.7103,82.4666,2,Night
+Andhra Pradesh,Visakhapatnam,16-03-2024,01-01-1900 10:00,storm,expressway,3,2,0,18.09,86.6577,10,Morning
+Bihar,Bhagalpur,19-01-2024,01-01-1900 20:00,clear,national highway,4,2,1,24.6405,80.3515,20,Evening
+Maharashtra,Mumbai,01-01-2023,01-01-1900 16:00,rain,national highway,4,1,0,14.7764,84.6445,16,Afternoon
+UP,Kanpur,02-11-2023,01-01-1900 07:00,rain,city road,4,2,0,22.2556,86.0473,7,Morning
+UP,Lucknow,15-05-2023,01-01-1900 02:00,heavy rain,expressway,3,1,1,21.7,85.4129,2,Night
+Karnataka,Bengaluru,29-05-2023,01-01-1900 03:00,storm,nan,4,2,0,18.3786,78.6101,3,Night
+Telangana,Warangal,18-05-2023,01-01-1900 04:00,clear,city road,1,1,0,12.413,78.4868,4,Night
+Delhi,Dwarka,23-12-2023,01-01-1900 01:00,rain,city road,1,2,1,27.4532,81.7575,1,Night
+Maharashtra,Pune,29-02-2024,01-01-1900 00:00,heavy rain,rural road,4,2,0,19.0322,78.1623,0,Night
+Tamil Nadu,Coimbatore,19-07-2023,01-01-1900 21:00,rain,city road,1,0,1,21.9134,84.1522,21,Night
+Delhi,New Delhi,18-03-2024,01-01-1900 21:00,rain,city road,4,1,2,12.9306,87.9435,21,Night
+Andhra Pradesh,Vijayawada,25-10-2023,01-01-1900 22:00,foggy,national highway,1,2,0,27.7389,79.631,22,Night
+Andhra Pradesh,Vijayawada,02-07-2023,01-01-1900 20:00,rain,city road,4,1,0,23.0746,77.6852,20,Evening
+Bihar,Bhagalpur,09-04-2023,01-01-1900 00:00,rain,nan,2,2,1,25.0235,83.7674,0,Night
+Bihar,Patna,18-10-2023,01-01-1900 05:00,rain,highway,4,3,0,20.4327,81.6869,5,Morning
+Karnataka,Mysuru,01-06-2023,01-01-1900 08:00,storm,highway,4,0,0,17.8841,81.5554,8,Morning
+Delhi,Rohini,02-02-2023,01-01-1900 21:00,heavy rain,expressway,4,2,1,24.3089,77.1213,21,Night
+Telangana,Nizamabad,04-12-2023,01-01-1900 02:00,foggy,city road,1,1,1,12.3071,79.8579,2,Night
+Bihar,Bhagalpur,16-11-2023,01-01-1900 22:00,clear,national highway,2,1,1,20.565,79.3672,22,Night
+Telangana,Warangal,15-02-2024,01-01-1900 20:00,rain,expressway,4,1,1,13.7558,83.0276,20,Evening
+Telangana,Warangal,09-02-2023,01-01-1900 06:00,rain,highway,2,3,0,13.5693,82.3707,6,Morning
+Karnataka,Mangalore,19-01-2024,01-01-1900 17:00,rain,highway,3,1,0,23.7977,82.2362,17,Evening
+UP,Varanasi,22-06-2023,01-01-1900 21:00,storm,national highway,3,0,0,19.3511,85.6352,21,Night
+Delhi,Rohini,04-05-2023,01-01-1900 18:00,foggy,expressway,0,1,0,23.0102,81.8136,18,Evening
+Maharashtra,Nagpur,09-01-2023,01-01-1900 16:00,clear,highway,3,2,0,12.6148,86.9194,16,Afternoon
+Maharashtra,Nagpur,19-09-2023,01-01-1900 17:00,rain,highway,4,4,0,22.5497,86.8463,17,Evening
+Maharashtra,Mumbai,20-10-2023,01-01-1900 12:00,rain,highway,3,3,2,13.0664,82.7025,12,Afternoon
+Telangana,Nizamabad,25-11-2023,01-01-1900 09:00,foggy,highway,1,2,0,20.1956,84.4825,9,Morning
+Telangana,Hyderabad,18-01-2024,01-01-1900 20:00,foggy,highway,3,1,1,13.1401,77.1332,20,Evening
+Karnataka,Bengaluru,11-12-2023,01-01-1900 23:00,storm,expressway,1,0,0,17.5953,85.5212,23,Night
+Andhra Pradesh,Tirupati,15-05-2023,01-01-1900 02:00,foggy,highway,2,0,1,14.7857,78.0824,2,Night
+Tamil Nadu,Chennai,06-02-2023,01-01-1900 08:00,rain,highway,1,3,1,16.2407,77.2304,8,Morning
+Andhra Pradesh,Visakhapatnam,28-03-2023,01-01-1900 11:00,foggy,rural road,1,3,0,21.9946,81.2013,11,Morning
+Telangana,Hyderabad,14-01-2024,01-01-1900 01:00,foggy,national highway,1,1,0,21.8402,85.521,1,Night
+Tamil Nadu,Chennai,07-10-2023,01-01-1900 16:00,storm,expressway,2,2,3,12.6712,87.6534,16,Afternoon
+Maharashtra,Mumbai,31-01-2023,01-01-1900 09:00,clear,nan,4,1,1,27.6795,83.6207,9,Morning
+Delhi,New Delhi,10-01-2023,01-01-1900 09:00,heavy rain,rural road,1,3,1,24.9883,84.2213,9,Morning
+Bihar,Bhagalpur,19-04-2024,01-01-1900 22:00,clear,city road,3,1,0,26.8493,79.4708,22,Night
+Maharashtra,Mumbai,15-05-2024,01-01-1900 16:00,clear,highway,0,0,0,19.0305,83.7423,16,Afternoon
+Maharashtra,Mumbai,19-03-2023,01-01-1900 10:00,foggy,highway,4,1,0,26.1908,84.1039,10,Morning
+Karnataka,Mysuru,11-05-2024,01-01-1900 09:00,storm,expressway,2,3,0,25.7819,86.3117,9,Morning
+Maharashtra,Nagpur,28-12-2023,01-01-1900 16:00,foggy,city road,2,1,1,24.0807,82.0659,16,Afternoon
+Karnataka,Mangalore,16-01-2023,01-01-1900 10:00,foggy,national highway,4,2,1,24.4232,84.2178,10,Morning
+Tamil Nadu,Chennai,09-03-2023,01-01-1900 05:00,clear,expressway,2,2,0,27.7547,87.3113,5,Morning
+Karnataka,Mangalore,09-03-2024,01-01-1900 19:00,rain,city road,4,2,0,25.0846,79.3486,19,Evening
+Andhra Pradesh,Visakhapatnam,01-05-2024,01-01-1900 13:00,heavy rain,city road,1,3,1,23.7248,82.9646,13,Afternoon
+Bihar,Patna,07-08-2023,01-01-1900 12:00,foggy,highway,3,2,3,16.7608,83.2152,12,Afternoon
+Andhra Pradesh,Vijayawada,20-08-2023,01-01-1900 14:00,heavy rain,nan,4,2,1,22.1807,85.3723,14,Afternoon
+Tamil Nadu,Coimbatore,14-08-2023,01-01-1900 12:00,clear,rural road,2,1,0,12.1493,79.7135,12,Afternoon
+Bihar,Patna,05-01-2024,01-01-1900 16:00,foggy,expressway,2,1,0,24.8011,79.2444,16,Afternoon
+Tamil Nadu,Coimbatore,16-02-2023,01-01-1900 08:00,foggy,highway,1,4,1,21.8558,79.0683,8,Morning
+Karnataka,Mysuru,09-10-2023,01-01-1900 12:00,foggy,national highway,2,3,0,20.8676,77.0575,12,Afternoon
+Bihar,Gaya,17-11-2023,01-01-1900 05:00,foggy,city road,1,1,1,27.3292,81.0473,5,Morning
+Andhra Pradesh,Tirupati,02-05-2023,01-01-1900 06:00,nan,rural road,4,0,0,16.8897,86.6432,6,Morning
+Tamil Nadu,Chennai,05-04-2023,01-01-1900 04:00,rain,highway,2,4,0,26.1791,83.5235,4,Night
+Andhra Pradesh,Vijayawada,02-08-2023,01-01-1900 05:00,clear,expressway,2,0,0,23.1299,77.0354,5,Morning
+Delhi,Dwarka,04-04-2024,01-01-1900 12:00,foggy,expressway,1,0,2,24.7072,78.0229,12,Afternoon
+Tamil Nadu,Madurai,18-04-2023,01-01-1900 19:00,rain,expressway,1,1,3,22.2772,77.7134,19,Evening
+Delhi,Dwarka,27-09-2023,01-01-1900 18:00,foggy,expressway,4,3,3,20.9706,83.6384,18,Evening
+Maharashtra,Mumbai,01-01-2023,01-01-1900 03:00,storm,highway,1,3,0,16.3171,86.0755,3,Night
+Delhi,Rohini,17-02-2024,01-01-1900 20:00,clear,highway,2,1,0,12.9368,80.6766,20,Evening
+Andhra Pradesh,Vijayawada,18-12-2023,01-01-1900 10:00,foggy,highway,1,2,1,24.6178,82.69,10,Morning
+Bihar,Patna,27-11-2023,01-01-1900 04:00,foggy,highway,4,0,0,17.2511,81.7742,4,Night
+Andhra Pradesh,Visakhapatnam,17-10-2023,01-01-1900 23:00,clear,city road,3,1,0,21.5716,85.0923,23,Night
+Andhra Pradesh,Visakhapatnam,12-07-2023,01-01-1900 20:00,foggy,city road,1,0,0,22.1788,85.6422,20,Evening
+UP,Lucknow,12-09-2023,01-01-1900 07:00,storm,national highway,2,1,0,25.4368,81.2222,7,Morning
+Telangana,Warangal,17-09-2023,01-01-1900 00:00,foggy,city road,3,4,2,14.9516,80.9846,0,Night
+Telangana,Nizamabad,13-12-2023,01-01-1900 04:00,clear,rural road,4,2,0,16.7796,87.3475,4,Night
+Telangana,Warangal,28-08-2023,01-01-1900 01:00,clear,highway,3,1,0,25.9637,86.2613,1,Night
+Bihar,Bhagalpur,02-03-2023,01-01-1900 08:00,nan,national highway,1,2,0,19.331,82.3127,8,Morning
+Delhi,Dwarka,14-03-2023,01-01-1900 22:00,heavy rain,city road,1,1,0,18.9896,85.0246,22,Night
+Andhra Pradesh,Vijayawada,16-07-2023,01-01-1900 01:00,foggy,rural road,2,1,1,21.7636,78.4889,1,Night
+Delhi,Dwarka,20-06-2023,01-01-1900 06:00,storm,expressway,2,2,2,27.3058,77.7585,6,Morning
+Bihar,Gaya,29-04-2023,01-01-1900 07:00,clear,national highway,4,1,0,16.1873,79.7168,7,Morning
+Bihar,Patna,03-02-2023,01-01-1900 15:00,rain,rural road,4,1,1,16.3512,85.3534,15,Afternoon
+UP,Varanasi,12-02-2024,01-01-1900 03:00,rain,national highway,4,3,0,13.0459,82.3633,3,Night
+UP,Lucknow,24-06-2023,01-01-1900 06:00,foggy,expressway,3,0,1,17.5575,86.8982,6,Morning
+Bihar,Patna,31-10-2023,01-01-1900 19:00,rain,expressway,1,2,1,26.9892,77.5748,19,Evening
+UP,Kanpur,11-09-2023,01-01-1900 20:00,rain,city road,0,0,0,23.6931,87.7943,20,Evening
+Karnataka,Mysuru,30-09-2023,01-01-1900 09:00,storm,city road,2,2,0,15.1696,83.2186,9,Morning
+UP,Varanasi,13-04-2024,01-01-1900 11:00,clear,expressway,4,2,0,21.7364,80.8446,11,Morning
+Andhra Pradesh,Visakhapatnam,26-02-2023,01-01-1900 09:00,heavy rain,rural road,4,1,0,25.6099,83.1735,9,Morning
+Karnataka,Mysuru,13-03-2023,01-01-1900 06:00,rain,rural road,0,0,1,25.7622,84.951,6,Morning
+Karnataka,Mangalore,29-03-2024,01-01-1900 15:00,foggy,highway,2,2,0,20.6966,77.899,15,Afternoon
+UP,Varanasi,03-04-2023,01-01-1900 14:00,storm,rural road,3,0,1,14.6524,87.4027,14,Afternoon
+Maharashtra,Pune,19-04-2024,01-01-1900 17:00,clear,highway,4,2,1,19.3967,81.5294,17,Evening
+Maharashtra,Pune,22-09-2023,01-01-1900 02:00,heavy rain,rural road,1,2,3,12.9964,82.6375,2,Night
+Andhra Pradesh,Tirupati,21-08-2023,01-01-1900 16:00,rain,rural road,3,1,2,12.8313,85.6491,16,Afternoon
+Maharashtra,Nagpur,06-02-2024,01-01-1900 18:00,clear,highway,4,1,0,14.6353,80.6324,18,Evening
+Andhra Pradesh,Visakhapatnam,06-09-2023,01-01-1900 02:00,rain,national highway,0,2,2,15.2781,86.6561,2,Night
+Karnataka,Mangalore,14-01-2024,01-01-1900 04:00,rain,city road,3,1,0,27.7598,85.4921,4,Night
+Telangana,Hyderabad,01-11-2023,01-01-1900 04:00,foggy,rural road,2,3,0,20.6192,82.4759,4,Night
+Andhra Pradesh,Visakhapatnam,22-01-2024,01-01-1900 03:00,foggy,rural road,4,2,0,25.1537,81.1846,3,Night
+UP,Kanpur,15-05-2023,01-01-1900 04:00,clear,national highway,4,2,0,16.5942,85.7214,4,Night
+Delhi,Dwarka,09-11-2023,01-01-1900 20:00,rain,national highway,3,4,2,24.7666,81.3557,20,Evening
+Tamil Nadu,Madurai,11-12-2023,01-01-1900 18:00,rain,nan,2,2,1,14.5273,84.6549,18,Evening
+Telangana,Nizamabad,17-08-2023,01-01-1900 11:00,nan,national highway,2,1,2,25.7149,86.9676,11,Morning
+Tamil Nadu,Madurai,23-11-2023,01-01-1900 03:00,rain,expressway,2,1,0,14.9476,86.8339,3,Night
+Telangana,Nizamabad,05-04-2023,01-01-1900 08:00,storm,highway,1,0,1,19.0452,83.7683,8,Morning
+Delhi,Dwarka,24-03-2023,01-01-1900 02:00,clear,nan,4,2,2,27.474,81.5954,2,Night
+Bihar,Patna,09-11-2023,01-01-1900 12:00,storm,highway,2,0,1,26.1108,81.7024,12,Afternoon
+Maharashtra,Mumbai,18-01-2023,01-01-1900 02:00,clear,rural road,1,3,3,23.5097,86.7928,2,Night
+Maharashtra,Mumbai,25-12-2023,01-01-1900 10:00,clear,expressway,4,2,0,14.9986,86.4399,10,Morning
+Tamil Nadu,Chennai,16-07-2023,01-01-1900 22:00,rain,expressway,3,2,2,23.3639,80.4579,22,Night
+Delhi,Rohini,12-03-2024,01-01-1900 10:00,storm,nan,2,3,0,19.3482,80.9358,10,Morning
+Telangana,Nizamabad,19-12-2023,01-01-1900 11:00,rain,highway,4,3,0,17.3633,78.9114,11,Morning
+Bihar,Gaya,02-02-2023,01-01-1900 17:00,storm,nan,4,3,1,13.6102,79.6386,17,Evening
+UP,Lucknow,19-04-2023,01-01-1900 20:00,foggy,nan,2,1,0,19.2056,85.2371,20,Evening
+Andhra Pradesh,Guntur,26-12-2023,01-01-1900 20:00,clear,city road,1,3,2,17.638,86.2559,20,Evening
+Telangana,Hyderabad,28-02-2023,01-01-1900 15:00,rain,city road,4,2,0,22.1463,78.3889,15,Afternoon
+Karnataka,Mysuru,04-03-2024,01-01-1900 06:00,foggy,national highway,1,0,2,22.9812,77.7661,6,Morning
+Bihar,Patna,18-04-2024,01-01-1900 18:00,foggy,nan,0,2,0,15.6349,86.2075,18,Evening
+Telangana,Nizamabad,30-11-2023,01-01-1900 18:00,foggy,highway,4,3,0,23.1064,82.6392,18,Evening
+Karnataka,Mangalore,21-12-2023,01-01-1900 01:00,storm,expressway,0,0,0,12.531,80.3434,1,Night
+Telangana,Nizamabad,15-05-2024,01-01-1900 03:00,heavy rain,rural road,2,2,1,25.9393,85.4267,3,Night
+Bihar,Gaya,01-04-2023,01-01-1900 05:00,clear,highway,3,2,2,16.1646,86.9791,5,Morning
+Andhra Pradesh,Vijayawada,15-01-2024,01-01-1900 01:00,foggy,highway,4,2,2,13.7758,81.9176,1,Night
+UP,Lucknow,18-01-2024,01-01-1900 21:00,heavy rain,highway,3,3,0,20.7464,81.1844,21,Night
+Telangana,Warangal,27-10-2023,01-01-1900 15:00,foggy,city road,2,1,0,23.8385,87.0988,15,Afternoon
+Delhi,Dwarka,14-04-2023,01-01-1900 10:00,clear,highway,1,2,0,16.6755,87.0185,10,Morning
+Tamil Nadu,Coimbatore,06-11-2023,01-01-1900 05:00,heavy rain,highway,4,2,1,12.2881,87.5909,5,Morning
+Maharashtra,Mumbai,09-01-2024,01-01-1900 13:00,heavy rain,national highway,4,0,2,25.2703,80.0967,13,Afternoon
+Andhra Pradesh,Tirupati,23-01-2023,01-01-1900 01:00,clear,rural road,4,2,2,13.5446,79.6608,1,Night
+Andhra Pradesh,Tirupati,01-05-2024,01-01-1900 06:00,rain,national highway,2,1,0,16.8202,83.5819,6,Morning
+Andhra Pradesh,Tirupati,26-08-2023,01-01-1900 04:00,foggy,nan,4,0,0,23.8911,77.5296,4,Night
+Andhra Pradesh,Visakhapatnam,07-08-2023,01-01-1900 08:00,rain,nan,3,3,2,26.2768,79.0386,8,Morning
+Telangana,Warangal,07-07-2023,01-01-1900 14:00,rain,national highway,2,1,0,24.7133,77.3814,14,Afternoon
+Delhi,New Delhi,04-10-2023,01-01-1900 03:00,heavy rain,highway,2,2,2,13.0183,86.1451,3,Night
+Delhi,Dwarka,20-08-2023,01-01-1900 15:00,storm,highway,3,0,1,13.5017,87.0059,15,Afternoon
+Telangana,Hyderabad,01-04-2024,01-01-1900 14:00,rain,rural road,2,3,1,26.0637,83.2895,14,Afternoon
+Bihar,Patna,23-03-2024,01-01-1900 06:00,clear,rural road,0,1,1,17.0711,81.7806,6,Morning
+Andhra Pradesh,Guntur,03-03-2024,01-01-1900 16:00,foggy,expressway,3,2,2,26.2804,81.8772,16,Afternoon
+Bihar,Gaya,05-06-2023,01-01-1900 18:00,clear,city road,3,3,2,21.4672,84.729,18,Evening
+Maharashtra,Pune,04-05-2024,01-01-1900 05:00,clear,city road,2,2,0,13.6676,81.2296,5,Morning
+Andhra Pradesh,Visakhapatnam,22-10-2023,01-01-1900 04:00,clear,national highway,2,4,0,27.2085,83.6072,4,Night
+Bihar,Bhagalpur,14-05-2024,01-01-1900 05:00,rain,highway,4,2,2,22.1457,77.7803,5,Morning
+Delhi,Rohini,28-12-2023,01-01-1900 09:00,clear,expressway,2,1,0,19.5599,77.5021,9,Morning
+Bihar,Patna,13-03-2023,01-01-1900 21:00,clear,highway,4,1,0,27.5445,80.6448,21,Night
+Tamil Nadu,Madurai,27-09-2023,01-01-1900 07:00,heavy rain,highway,1,0,0,21.7725,80.0875,7,Morning
+Tamil Nadu,Coimbatore,12-06-2023,01-01-1900 19:00,rain,rural road,0,2,0,12.0881,77.0843,19,Evening
+Maharashtra,Pune,23-03-2024,01-01-1900 17:00,heavy rain,highway,4,1,0,24.8414,83.2925,17,Evening
+UP,Varanasi,03-04-2024,01-01-1900 13:00,rain,city road,2,0,1,26.9081,81.3672,13,Afternoon
+UP,Lucknow,04-01-2023,01-01-1900 13:00,foggy,city road,4,2,0,13.8214,80.7975,13,Afternoon
+Bihar,Patna,26-02-2024,01-01-1900 09:00,storm,expressway,4,3,1,19.8967,84.7248,9,Morning
+Bihar,Patna,01-12-2023,01-01-1900 21:00,foggy,city road,4,1,0,18.7493,81.5212,21,Night
+Telangana,Nizamabad,17-01-2024,01-01-1900 11:00,foggy,national highway,4,2,0,21.7265,80.4031,11,Morning
+Maharashtra,Mumbai,25-10-2023,01-01-1900 01:00,rain,nan,2,1,1,16.1217,77.6548,1,Night
+Andhra Pradesh,Visakhapatnam,30-05-2023,01-01-1900 16:00,heavy rain,highway,2,3,1,13.8318,81.2222,16,Afternoon
+Maharashtra,Pune,17-12-2023,01-01-1900 22:00,rain,nan,3,0,0,13.9364,81.6084,22,Night
+Delhi,New Delhi,22-02-2023,01-01-1900 06:00,heavy rain,city road,1,1,0,13.2829,80.9025,6,Morning
+Delhi,Dwarka,20-12-2023,01-01-1900 11:00,storm,expressway,3,2,1,22.8587,80.9811,11,Morning
+Karnataka,Mangalore,27-04-2023,01-01-1900 09:00,heavy rain,city road,0,1,1,22.1775,87.0462,9,Morning
+UP,Lucknow,11-04-2023,01-01-1900 03:00,clear,nan,0,3,1,23.5836,78.3261,3,Night
+Telangana,Nizamabad,16-04-2023,01-01-1900 18:00,nan,highway,3,0,1,12.1873,81.6424,18,Evening
+Delhi,New Delhi,13-03-2024,01-01-1900 16:00,rain,highway,1,1,0,21.2352,77.4811,16,Afternoon
+Andhra Pradesh,Vijayawada,18-04-2024,01-01-1900 06:00,rain,highway,2,2,0,17.4907,85.0209,6,Morning
+Tamil Nadu,Madurai,27-04-2023,01-01-1900 13:00,rain,highway,4,3,1,23.0799,81.7292,13,Afternoon
+Andhra Pradesh,Vijayawada,17-06-2023,01-01-1900 15:00,foggy,national highway,4,0,1,16.901,85.6788,15,Afternoon
+Maharashtra,Pune,07-04-2023,01-01-1900 02:00,rain,city road,1,3,0,25.1588,86.4332,2,Night
+Telangana,Hyderabad,15-03-2023,01-01-1900 12:00,nan,highway,2,1,1,17.1019,83.4042,12,Afternoon
+Telangana,Hyderabad,05-03-2024,01-01-1900 13:00,clear,highway,3,3,0,23.2894,84.5725,13,Afternoon
+UP,Kanpur,19-09-2023,01-01-1900 08:00,storm,highway,1,0,0,18.8885,78.5685,8,Morning
+Andhra Pradesh,Vijayawada,13-09-2023,01-01-1900 21:00,foggy,rural road,3,1,1,14.4714,77.2799,21,Night
+Bihar,Gaya,14-04-2023,01-01-1900 09:00,storm,expressway,0,3,2,17.4497,77.7888,9,Morning
+UP,Lucknow,16-07-2023,01-01-1900 14:00,nan,rural road,4,0,0,22.8339,83.6636,14,Afternoon
+Karnataka,Mysuru,09-08-2023,01-01-1900 04:00,foggy,rural road,1,0,0,27.8086,81.994,4,Night
+Karnataka,Mangalore,29-01-2023,01-01-1900 12:00,storm,expressway,4,1,0,19.7694,77.3029,12,Afternoon
+Andhra Pradesh,Guntur,04-03-2024,01-01-1900 11:00,clear,highway,3,2,1,18.1473,77.429,11,Morning
+Tamil Nadu,Chennai,01-05-2023,01-01-1900 20:00,rain,highway,1,1,0,14.5604,77.2569,20,Evening
+UP,Varanasi,21-09-2023,01-01-1900 13:00,clear,highway,4,1,2,16.6279,86.9009,13,Afternoon
+Bihar,Patna,20-12-2023,01-01-1900 21:00,rain,rural road,3,2,0,21.6471,86.0938,21,Night
+Telangana,Nizamabad,20-04-2023,01-01-1900 09:00,clear,national highway,4,1,1,18.1682,80.7443,9,Morning
+Delhi,Dwarka,04-02-2023,01-01-1900 18:00,foggy,city road,3,0,1,20.8594,82.9588,18,Evening
+Delhi,New Delhi,01-08-2023,01-01-1900 12:00,storm,highway,2,2,1,19.0471,80.3257,12,Afternoon
+Bihar,Gaya,24-04-2024,01-01-1900 20:00,clear,expressway,2,1,0,12.9224,80.7669,20,Evening
+UP,Kanpur,13-06-2023,01-01-1900 02:00,foggy,national highway,3,0,1,21.2875,78.5312,2,Night
+Tamil Nadu,Chennai,06-05-2023,01-01-1900 09:00,storm,expressway,4,4,0,19.8224,81.4196,9,Morning
+Maharashtra,Nagpur,09-10-2023,01-01-1900 05:00,storm,highway,1,3,2,21.9306,79.2144,5,Morning
+UP,Kanpur,10-12-2023,01-01-1900 21:00,foggy,highway,2,1,0,19.6087,82.9733,21,Night
+Maharashtra,Pune,28-03-2024,01-01-1900 02:00,rain,national highway,3,2,1,20.5342,86.5697,2,Night
+Tamil Nadu,Chennai,24-02-2023,01-01-1900 05:00,clear,rural road,4,2,0,13.9971,85.7363,5,Morning
+Delhi,Rohini,05-08-2023,01-01-1900 15:00,clear,city road,3,2,0,27.1047,78.6368,15,Afternoon
+Andhra Pradesh,Vijayawada,20-12-2023,01-01-1900 21:00,clear,expressway,4,2,0,19.7345,86.499,21,Night
+Tamil Nadu,Coimbatore,18-07-2023,01-01-1900 00:00,clear,national highway,1,0,2,16.5725,79.2355,0,Night
+Bihar,Bhagalpur,12-06-2023,01-01-1900 20:00,clear,national highway,1,1,2,20.1804,82.4156,20,Evening
+UP,Lucknow,27-02-2024,01-01-1900 05:00,rain,national highway,4,3,0,27.6918,81.4834,5,Morning
+Andhra Pradesh,Guntur,19-11-2023,01-01-1900 14:00,clear,rural road,2,2,1,21.1765,87.5165,14,Afternoon
+Karnataka,Mangalore,18-12-2023,01-01-1900 13:00,storm,rural road,2,1,0,25.6634,81.8306,13,Afternoon
+UP,Kanpur,04-04-2023,01-01-1900 12:00,heavy rain,highway,1,2,1,22.0255,87.1902,12,Afternoon
+Tamil Nadu,Coimbatore,26-12-2023,01-01-1900 05:00,foggy,expressway,4,1,0,23.0036,84.9498,5,Morning
+Andhra Pradesh,Tirupati,31-01-2024,01-01-1900 14:00,rain,city road,2,1,1,16.7903,80.9459,14,Afternoon
+Karnataka,Mysuru,14-03-2024,01-01-1900 06:00,clear,highway,2,1,1,15.3713,87.5319,6,Morning
+Bihar,Patna,09-07-2023,01-01-1900 18:00,rain,highway,4,3,1,16.7139,77.1575,18,Evening
+UP,Varanasi,02-11-2023,01-01-1900 08:00,nan,expressway,1,2,1,23.8476,78.5714,8,Morning
+Andhra Pradesh,Vijayawada,10-05-2023,01-01-1900 16:00,clear,rural road,3,2,1,22.5366,85.4273,16,Afternoon
+Bihar,Gaya,25-03-2024,01-01-1900 14:00,rain,national highway,4,2,2,13.4177,82.3639,14,Afternoon
+Maharashtra,Nagpur,04-07-2023,01-01-1900 13:00,clear,expressway,3,1,0,18.5137,77.7261,13,Afternoon
+Karnataka,Mangalore,12-03-2024,01-01-1900 21:00,nan,city road,2,1,0,24.9318,87.4246,21,Night
+Telangana,Warangal,21-01-2023,01-01-1900 14:00,storm,rural road,4,0,1,13.2298,82.5069,14,Afternoon
+Maharashtra,Mumbai,03-03-2024,01-01-1900 05:00,heavy rain,expressway,1,2,1,12.8036,77.8019,5,Morning
+Telangana,Warangal,14-01-2023,01-01-1900 09:00,foggy,national highway,1,0,0,15.7181,80.091,9,Morning
+Bihar,Bhagalpur,04-05-2024,01-01-1900 08:00,rain,highway,4,2,0,17.1439,82.2408,8,Morning
+Tamil Nadu,Chennai,15-02-2024,01-01-1900 20:00,rain,highway,1,2,0,27.6637,83.6384,20,Evening
+UP,Lucknow,11-01-2023,01-01-1900 06:00,foggy,rural road,3,3,0,13.9667,86.7752,6,Morning
+Maharashtra,Nagpur,05-11-2023,01-01-1900 04:00,rain,national highway,2,1,1,21.3738,83.8726,4,Night
+UP,Kanpur,11-11-2023,01-01-1900 05:00,foggy,highway,1,2,0,15.8709,84.8535,5,Morning
+Bihar,Bhagalpur,19-11-2023,01-01-1900 20:00,nan,rural road,4,2,1,20.84,82.7219,20,Evening
+Maharashtra,Mumbai,25-09-2023,01-01-1900 13:00,clear,expressway,1,2,0,16.3426,82.4636,13,Afternoon
+Maharashtra,Pune,11-05-2023,01-01-1900 18:00,clear,highway,4,1,0,22.0729,77.5977,18,Evening
+Maharashtra,Pune,28-10-2023,01-01-1900 23:00,storm,expressway,3,1,2,12.0022,82.6224,23,Night
+Maharashtra,Nagpur,24-02-2023,01-01-1900 13:00,nan,rural road,1,1,1,25.4294,77.042,13,Afternoon
+Bihar,Gaya,13-11-2023,01-01-1900 19:00,foggy,nan,0,2,0,17.0603,78.1208,19,Evening
+Andhra Pradesh,Guntur,04-09-2023,01-01-1900 20:00,heavy rain,rural road,2,0,0,25.4834,80.4468,20,Evening
+Karnataka,Mangalore,26-12-2023,01-01-1900 14:00,storm,highway,4,2,1,18.9411,87.0094,14,Afternoon
+Andhra Pradesh,Vijayawada,19-11-2023,01-01-1900 22:00,nan,rural road,3,2,0,13.4286,84.5572,22,Night
+Bihar,Patna,01-01-2024,01-01-1900 01:00,foggy,expressway,3,0,0,22.1234,84.7424,1,Night
+Delhi,Dwarka,24-12-2023,01-01-1900 13:00,foggy,national highway,2,3,2,27.4568,85.3714,13,Afternoon
+Bihar,Patna,28-03-2024,01-01-1900 09:00,foggy,highway,3,2,1,16.7688,78.159,9,Morning
+Telangana,Nizamabad,05-09-2023,01-01-1900 04:00,heavy rain,city road,4,2,2,12.771,80.9606,4,Night
+Andhra Pradesh,Vijayawada,03-07-2023,01-01-1900 08:00,foggy,city road,1,2,1,18.9237,82.0347,8,Morning
+Bihar,Gaya,24-06-2023,01-01-1900 11:00,clear,city road,1,1,0,17.917,77.5759,11,Morning
+Telangana,Hyderabad,05-02-2024,01-01-1900 19:00,clear,expressway,1,1,2,25.1549,86.3538,19,Evening
+Bihar,Bhagalpur,13-09-2023,01-01-1900 23:00,foggy,highway,3,2,0,19.5565,86.6817,23,Night
+Andhra Pradesh,Guntur,03-03-2024,01-01-1900 15:00,clear,expressway,2,2,0,21.724,80.2483,15,Afternoon
+Karnataka,Mangalore,04-08-2023,01-01-1900 07:00,foggy,rural road,4,2,0,23.8176,80.4719,7,Morning
+Bihar,Patna,30-01-2024,01-01-1900 00:00,rain,national highway,3,0,0,23.4113,79.1914,0,Night
+Karnataka,Mangalore,30-01-2023,01-01-1900 20:00,foggy,rural road,3,1,1,17.8846,77.639,20,Evening
+Karnataka,Mangalore,26-07-2023,01-01-1900 14:00,storm,highway,3,2,0,16.2815,86.1903,14,Afternoon
+Andhra Pradesh,Visakhapatnam,19-07-2023,01-01-1900 23:00,clear,city road,1,1,0,19.8858,81.4472,23,Night
+Maharashtra,Mumbai,02-03-2024,01-01-1900 09:00,rain,highway,1,4,1,12.1588,82.105,9,Morning
+Telangana,Warangal,02-06-2023,01-01-1900 18:00,storm,national highway,2,2,1,22.8407,80.4305,18,Evening
+Tamil Nadu,Coimbatore,03-06-2023,01-01-1900 09:00,foggy,expressway,2,2,1,20.3407,87.7362,9,Morning
+Karnataka,Mangalore,06-08-2023,01-01-1900 13:00,rain,highway,4,2,1,13.9233,79.9214,13,Afternoon
+UP,Kanpur,27-10-2023,01-01-1900 15:00,storm,highway,4,2,2,17.5695,81.0891,15,Afternoon
+Bihar,Patna,10-05-2024,01-01-1900 22:00,nan,rural road,4,2,1,25.553,77.2595,22,Night
+UP,Lucknow,03-03-2023,01-01-1900 11:00,clear,expressway,2,2,0,24.486,82.038,11,Morning
+Karnataka,Bengaluru,06-02-2024,01-01-1900 18:00,clear,national highway,3,0,0,13.0511,79.5106,18,Evening
+Andhra Pradesh,Tirupati,04-09-2023,01-01-1900 18:00,storm,national highway,4,1,0,23.9591,82.2119,18,Evening
+Bihar,Gaya,08-12-2023,01-01-1900 14:00,rain,highway,4,2,1,27.4043,77.8317,14,Afternoon
+Bihar,Bhagalpur,23-05-2023,01-01-1900 20:00,foggy,highway,1,0,0,15.1333,78.5488,20,Evening
+Telangana,Hyderabad,04-05-2024,01-01-1900 19:00,heavy rain,rural road,0,3,1,21.2528,78.6166,19,Evening
+Tamil Nadu,Madurai,05-03-2024,01-01-1900 18:00,rain,nan,0,2,2,18.2107,84.4154,18,Evening
+UP,Lucknow,16-03-2024,01-01-1900 16:00,foggy,national highway,1,1,0,26.6798,80.1955,16,Afternoon
+Telangana,Hyderabad,07-06-2023,01-01-1900 13:00,clear,expressway,3,3,0,23.3235,77.6842,13,Afternoon
+Delhi,Dwarka,12-07-2023,01-01-1900 03:00,heavy rain,city road,2,0,3,14.1484,87.5373,3,Night
+Bihar,Bhagalpur,28-07-2023,01-01-1900 02:00,clear,nan,2,0,1,20.0097,84.4758,2,Night
+Karnataka,Mysuru,18-10-2023,01-01-1900 13:00,rain,highway,2,1,0,24.9114,82.0563,13,Afternoon
+UP,Varanasi,20-08-2023,01-01-1900 01:00,storm,expressway,3,0,2,12.7024,78.8232,1,Night
+Maharashtra,Nagpur,14-07-2023,01-01-1900 11:00,clear,highway,2,0,0,12.7997,86.2801,11,Morning
+Karnataka,Mangalore,12-10-2023,01-01-1900 08:00,heavy rain,expressway,3,1,1,27.37,79.1662,8,Morning
+Maharashtra,Mumbai,06-12-2023,01-01-1900 10:00,nan,rural road,0,0,1,18.9919,83.5292,10,Morning
+Andhra Pradesh,Guntur,31-07-2023,01-01-1900 17:00,foggy,expressway,1,2,0,27.6988,79.0912,17,Evening
+Bihar,Bhagalpur,05-03-2023,01-01-1900 11:00,rain,rural road,2,2,1,24.117,78.7784,11,Morning
+Tamil Nadu,Coimbatore,05-01-2023,01-01-1900 07:00,clear,highway,3,4,0,15.9574,84.0468,7,Morning
+Bihar,Gaya,19-01-2023,01-01-1900 08:00,heavy rain,highway,2,0,1,21.0414,85.4879,8,Morning
+Karnataka,Mangalore,10-04-2023,01-01-1900 21:00,rain,expressway,2,1,0,12.1446,80.9273,21,Night
+Maharashtra,Mumbai,10-03-2024,01-01-1900 21:00,nan,highway,4,0,1,17.1467,86.3285,21,Night
+Delhi,Dwarka,08-03-2024,01-01-1900 13:00,rain,highway,4,1,0,18.8592,77.3209,13,Afternoon
+UP,Varanasi,18-08-2023,01-01-1900 10:00,foggy,city road,3,4,0,13.896,80.1777,10,Morning
+UP,Lucknow,14-04-2024,01-01-1900 07:00,nan,national highway,3,2,0,27.8921,77.494,7,Morning
+Delhi,Dwarka,07-05-2023,01-01-1900 03:00,heavy rain,national highway,1,1,2,18.2793,85.2969,3,Night
+Bihar,Patna,17-11-2023,01-01-1900 14:00,rain,highway,1,0,2,24.6008,79.761,14,Afternoon
+Bihar,Patna,04-06-2023,01-01-1900 19:00,rain,highway,1,0,1,22.5061,79.6444,19,Evening
+Tamil Nadu,Madurai,08-02-2024,01-01-1900 21:00,storm,rural road,4,2,0,15.5336,77.4282,21,Night
+Andhra Pradesh,Tirupati,22-09-2023,01-01-1900 10:00,rain,nan,1,1,1,27.2073,83.3978,10,Morning
+Maharashtra,Pune,04-08-2023,01-01-1900 15:00,foggy,nan,2,4,0,20.2672,85.3465,15,Afternoon
+Delhi,Dwarka,26-10-2023,01-01-1900 17:00,foggy,rural road,3,0,0,26.3055,87.411,17,Evening
+Karnataka,Bengaluru,02-05-2023,01-01-1900 16:00,foggy,national highway,2,1,1,24.4858,82.2397,16,Afternoon
+Bihar,Bhagalpur,21-12-2023,01-01-1900 14:00,rain,expressway,3,0,0,21.4581,79.0475,14,Afternoon
+Tamil Nadu,Chennai,24-11-2023,01-01-1900 07:00,storm,expressway,2,3,0,15.3132,77.7827,7,Morning
+Tamil Nadu,Coimbatore,05-04-2023,01-01-1900 00:00,nan,highway,3,1,1,24.9741,86.1941,0,Night
+Delhi,New Delhi,14-05-2024,01-01-1900 00:00,heavy rain,national highway,2,3,0,24.338,84.2012,0,Night
+Tamil Nadu,Chennai,01-04-2023,01-01-1900 08:00,clear,highway,2,0,1,18.8037,77.4133,8,Morning
+Tamil Nadu,Coimbatore,19-02-2024,01-01-1900 11:00,foggy,highway,1,2,0,12.0002,81.5822,11,Morning
+Delhi,Dwarka,03-11-2023,01-01-1900 13:00,clear,expressway,2,1,1,27.5693,79.4874,13,Afternoon
+Maharashtra,Mumbai,11-03-2024,01-01-1900 16:00,heavy rain,highway,1,0,0,15.6867,77.0162,16,Afternoon
+Delhi,Dwarka,23-09-2023,01-01-1900 14:00,rain,highway,3,2,0,23.8703,86.3327,14,Afternoon
+Andhra Pradesh,Guntur,23-04-2023,01-01-1900 06:00,heavy rain,rural road,2,0,0,17.2047,84.8388,6,Morning
+Telangana,Hyderabad,20-01-2024,01-01-1900 02:00,storm,nan,3,1,1,17.9351,86.9213,2,Night
+UP,Kanpur,08-07-2023,01-01-1900 15:00,clear,rural road,1,1,2,21.4502,84.2712,15,Afternoon
+Telangana,Warangal,19-04-2024,01-01-1900 07:00,nan,highway,3,2,0,23.3491,78.8405,7,Morning
+Maharashtra,Mumbai,28-12-2023,01-01-1900 19:00,clear,highway,3,2,2,27.2355,77.4666,19,Evening
+Andhra Pradesh,Tirupati,01-12-2023,01-01-1900 16:00,foggy,city road,2,2,0,16.745,84.8587,16,Afternoon
+Bihar,Bhagalpur,21-02-2024,01-01-1900 14:00,rain,national highway,2,1,1,20.2217,82.5978,14,Afternoon
+Andhra Pradesh,Visakhapatnam,13-03-2023,01-01-1900 18:00,clear,highway,1,2,0,25.2401,84.6693,18,Evening
+UP,Varanasi,03-10-2023,01-01-1900 09:00,clear,expressway,1,1,2,26.7359,84.6405,9,Morning
+UP,Kanpur,15-04-2023,01-01-1900 12:00,foggy,city road,4,2,1,16.3851,85.8778,12,Afternoon
+Telangana,Nizamabad,11-10-2023,01-01-1900 05:00,storm,highway,2,1,0,17.3698,87.7638,5,Morning
+Telangana,Warangal,30-01-2023,01-01-1900 11:00,foggy,national highway,4,2,1,23.6329,83.1828,11,Morning
+UP,Lucknow,08-03-2023,01-01-1900 06:00,foggy,highway,4,1,1,18.0883,78.7934,6,Morning
+Bihar,Gaya,14-04-2023,01-01-1900 00:00,storm,highway,4,2,1,18.1497,77.2771,0,Night
+Bihar,Bhagalpur,21-01-2023,01-01-1900 23:00,clear,highway,4,0,0,23.2779,85.9884,23,Night
+Karnataka,Mysuru,08-05-2023,01-01-1900 05:00,storm,rural road,2,2,1,12.8267,82.5528,5,Morning
+Karnataka,Mysuru,27-03-2024,01-01-1900 20:00,rain,highway,2,2,1,14.8681,85.8,20,Evening
+Telangana,Nizamabad,28-01-2024,01-01-1900 10:00,storm,nan,3,0,2,14.1074,86.5183,10,Morning
+Bihar,Gaya,25-06-2023,01-01-1900 23:00,nan,rural road,1,1,0,16.6407,86.5856,23,Night
+Bihar,Gaya,04-02-2023,01-01-1900 02:00,storm,city road,0,3,1,16.0075,83.8736,2,Night
+Maharashtra,Mumbai,01-10-2023,01-01-1900 23:00,foggy,highway,1,3,0,26.4974,77.1337,23,Night
+Tamil Nadu,Coimbatore,23-12-2023,01-01-1900 01:00,foggy,highway,3,1,1,20.7817,80.164,1,Night
+Tamil Nadu,Coimbatore,10-04-2024,01-01-1900 07:00,nan,nan,4,0,0,21.9407,80.6745,7,Morning
+Telangana,Nizamabad,27-03-2023,01-01-1900 23:00,clear,rural road,1,1,2,13.0937,85.6214,23,Night
+UP,Kanpur,03-03-2023,01-01-1900 07:00,rain,national highway,3,1,0,22.9671,80.657,7,Morning
+Telangana,Nizamabad,22-02-2024,01-01-1900 08:00,clear,highway,2,1,0,27.1112,84.0591,8,Morning
+Karnataka,Mysuru,06-05-2024,01-01-1900 03:00,foggy,highway,2,3,2,15.1839,81.6017,3,Night
+Bihar,Patna,21-06-2023,01-01-1900 00:00,foggy,expressway,0,1,1,16.4456,80.0395,0,Night
+Telangana,Warangal,02-05-2023,01-01-1900 23:00,nan,expressway,1,2,0,13.08,82.7057,23,Night
+Andhra Pradesh,Guntur,17-04-2024,01-01-1900 23:00,rain,city road,3,1,0,23.8062,84.7501,23,Night
+Maharashtra,Mumbai,28-04-2023,01-01-1900 23:00,rain,city road,2,0,0,18.3618,79.907,23,Night
+Tamil Nadu,Madurai,22-03-2024,01-01-1900 12:00,nan,rural road,1,1,0,16.2965,80.1621,12,Afternoon
+Tamil Nadu,Chennai,16-02-2023,01-01-1900 05:00,heavy rain,expressway,1,2,1,21.6582,77.8468,5,Morning
+Tamil Nadu,Coimbatore,27-05-2023,01-01-1900 18:00,heavy rain,national highway,4,1,0,21.5847,83.8601,18,Evening
+UP,Lucknow,24-02-2024,01-01-1900 15:00,foggy,rural road,1,0,1,12.2418,87.6152,15,Afternoon
+Maharashtra,Pune,26-08-2023,01-01-1900 09:00,nan,rural road,4,2,0,23.3061,83.7101,9,Morning
+Andhra Pradesh,Visakhapatnam,09-09-2023,01-01-1900 12:00,foggy,highway,3,0,0,21.5627,86.5271,12,Afternoon
+Telangana,Warangal,22-04-2024,01-01-1900 18:00,heavy rain,rural road,3,2,1,15.2421,83.4634,18,Evening
+Delhi,Rohini,30-01-2023,01-01-1900 20:00,foggy,nan,2,3,2,18.5304,77.1693,20,Evening
+Karnataka,Mysuru,06-11-2023,01-01-1900 14:00,nan,city road,2,0,1,19.2041,87.5334,14,Afternoon
+Telangana,Nizamabad,10-04-2024,01-01-1900 06:00,foggy,rural road,3,3,0,15.0166,84.3971,6,Morning
+UP,Varanasi,21-03-2024,01-01-1900 02:00,rain,city road,3,1,0,13.482,85.2322,2,Night
+Bihar,Patna,19-02-2023,01-01-1900 02:00,foggy,highway,3,1,1,16.1394,81.7784,2,Night
+Karnataka,Mangalore,30-04-2024,01-01-1900 03:00,nan,city road,2,4,2,22.203,79.6622,3,Night
+UP,Kanpur,17-11-2023,01-01-1900 19:00,foggy,highway,0,1,1,15.1883,86.6522,19,Evening
+Bihar,Bhagalpur,25-01-2024,01-01-1900 03:00,clear,national highway,1,1,0,16.3329,79.7232,3,Night
+UP,Varanasi,24-09-2023,01-01-1900 08:00,storm,national highway,4,1,0,23.7237,83.674,8,Morning
+Delhi,Rohini,24-07-2023,01-01-1900 12:00,nan,national highway,1,1,1,27.2239,86.2234,12,Afternoon
+Andhra Pradesh,Vijayawada,20-03-2024,01-01-1900 16:00,heavy rain,national highway,4,2,1,26.9234,82.9868,16,Afternoon
+Delhi,New Delhi,21-11-2023,01-01-1900 11:00,rain,highway,4,2,0,23.8861,85.1171,11,Morning
+Bihar,Bhagalpur,14-03-2024,01-01-1900 22:00,foggy,national highway,2,1,1,17.9378,87.1284,22,Night
+Andhra Pradesh,Guntur,12-09-2023,01-01-1900 02:00,storm,city road,4,3,3,16.3017,81.0529,2,Night
+Telangana,Hyderabad,11-08-2023,01-01-1900 22:00,foggy,national highway,4,2,1,24.5982,81.9978,22,Night
+Telangana,Nizamabad,11-03-2023,01-01-1900 17:00,rain,highway,3,0,1,23.2874,81.7036,17,Evening
+UP,Varanasi,16-01-2024,01-01-1900 23:00,foggy,city road,2,4,0,26.9805,77.7041,23,Night
+Tamil Nadu,Madurai,27-04-2024,01-01-1900 03:00,foggy,nan,4,1,1,19.1027,77.241,3,Night
+UP,Kanpur,30-01-2024,01-01-1900 11:00,nan,highway,4,2,0,12.8988,82.4021,11,Morning
+Tamil Nadu,Coimbatore,15-12-2023,01-01-1900 14:00,clear,city road,1,1,2,22.4828,79.8626,14,Afternoon
+Bihar,Bhagalpur,29-02-2024,01-01-1900 06:00,nan,highway,4,1,0,13.1279,79.0421,6,Morning
+Tamil Nadu,Madurai,12-01-2024,01-01-1900 01:00,storm,highway,4,2,0,25.026,84.5365,1,Night
+UP,Kanpur,05-08-2023,01-01-1900 21:00,nan,rural road,4,1,0,16.9569,79.7495,21,Night
+UP,Lucknow,09-03-2023,01-01-1900 10:00,clear,rural road,2,5,2,17.7102,80.8917,10,Morning
+Tamil Nadu,Madurai,30-11-2023,01-01-1900 00:00,rain,highway,2,2,1,16.9247,87.0517,0,Night
+Delhi,Dwarka,02-04-2023,01-01-1900 01:00,rain,expressway,4,1,1,17.6708,82.562,1,Night
+Bihar,Gaya,19-12-2023,01-01-1900 19:00,foggy,highway,1,1,0,20.8539,82.5345,19,Evening
+Delhi,New Delhi,03-03-2023,01-01-1900 03:00,nan,rural road,2,2,0,22.8311,86.217,3,Night
+Karnataka,Mysuru,05-09-2023,01-01-1900 20:00,clear,nan,2,2,1,19.0274,83.716,20,Evening
+Andhra Pradesh,Tirupati,12-10-2023,01-01-1900 17:00,rain,expressway,1,2,0,14.8681,84.6334,17,Evening
+Karnataka,Bengaluru,12-10-2023,01-01-1900 14:00,rain,highway,2,1,0,14.6446,77.0219,14,Afternoon
+Telangana,Hyderabad,17-09-2023,01-01-1900 09:00,foggy,nan,1,3,1,20.2389,78.775,9,Morning
+Bihar,Patna,23-10-2023,01-01-1900 15:00,rain,expressway,2,1,0,13.6855,79.446,15,Afternoon
+Tamil Nadu,Chennai,05-11-2023,01-01-1900 17:00,rain,national highway,2,4,1,15.9256,77.6351,17,Evening
+Karnataka,Mysuru,22-08-2023,01-01-1900 02:00,foggy,highway,2,0,0,15.5129,87.5585,2,Night
+Tamil Nadu,Madurai,10-07-2023,01-01-1900 18:00,foggy,city road,3,3,3,18.6524,81.7184,18,Evening
+Telangana,Nizamabad,26-02-2023,01-01-1900 21:00,rain,national highway,1,4,1,23.2343,78.8886,21,Night
+Andhra Pradesh,Vijayawada,13-07-2023,01-01-1900 07:00,rain,highway,2,1,1,25.9284,83.9456,7,Morning
+Delhi,Rohini,20-10-2023,01-01-1900 09:00,rain,highway,2,0,1,21.6902,78.2892,9,Morning
+UP,Kanpur,31-10-2023,01-01-1900 04:00,clear,highway,2,0,0,23.0732,79.2688,4,Night
+Delhi,Rohini,03-02-2024,01-01-1900 07:00,storm,city road,4,3,0,15.2691,82.5859,7,Morning
+Tamil Nadu,Coimbatore,22-11-2023,01-01-1900 02:00,foggy,national highway,1,1,0,24.6841,77.7595,2,Night
+Telangana,Nizamabad,27-05-2023,01-01-1900 17:00,clear,rural road,2,5,0,22.0548,84.5749,17,Evening
+UP,Lucknow,12-11-2023,01-01-1900 06:00,foggy,highway,3,2,2,25.3779,86.0353,6,Morning
+Andhra Pradesh,Tirupati,08-05-2024,01-01-1900 05:00,foggy,highway,3,1,2,17.3381,85.7071,5,Morning
+Delhi,New Delhi,23-06-2023,01-01-1900 21:00,rain,national highway,3,0,0,25.6796,86.7082,21,Night
+Maharashtra,Nagpur,21-09-2023,01-01-1900 01:00,nan,highway,3,1,0,18.2052,85.8389,1,Night
+Karnataka,Mysuru,01-07-2023,01-01-1900 00:00,foggy,rural road,2,1,1,13.0716,86.6509,0,Night
+Karnataka,Mangalore,09-05-2023,01-01-1900 07:00,foggy,national highway,3,3,1,27.4891,77.7322,7,Morning
+Bihar,Patna,13-03-2023,01-01-1900 11:00,clear,national highway,2,1,1,18.0075,85.842,11,Morning
+Andhra Pradesh,Guntur,08-12-2023,01-01-1900 06:00,clear,highway,4,0,1,15.5218,80.8557,6,Morning
+UP,Varanasi,07-01-2024,01-01-1900 23:00,foggy,highway,0,1,0,17.9132,82.1066,23,Night
+Andhra Pradesh,Visakhapatnam,08-08-2023,01-01-1900 19:00,foggy,rural road,3,3,2,23.3403,77.092,19,Evening
+Karnataka,Bengaluru,24-05-2023,01-01-1900 03:00,heavy rain,highway,4,2,0,19.7438,77.0584,3,Night
+Karnataka,Bengaluru,13-03-2024,01-01-1900 18:00,heavy rain,highway,2,2,0,20.7747,77.7311,18,Evening
+Tamil Nadu,Chennai,18-03-2024,01-01-1900 01:00,foggy,expressway,3,2,2,24.5114,85.2692,1,Night
+UP,Varanasi,27-01-2023,01-01-1900 09:00,clear,national highway,3,2,2,14.2452,84.3827,9,Morning
+Andhra Pradesh,Vijayawada,05-12-2023,01-01-1900 23:00,heavy rain,national highway,4,3,1,14.7181,79.1447,23,Night
+Delhi,Dwarka,27-02-2023,01-01-1900 03:00,foggy,national highway,3,2,1,26.5317,85.3459,3,Night
+Maharashtra,Mumbai,27-10-2023,01-01-1900 12:00,nan,city road,1,4,2,26.226,83.3669,12,Afternoon
+Bihar,Patna,08-02-2023,01-01-1900 17:00,clear,highway,4,0,1,19.5827,84.8804,17,Evening
+Maharashtra,Nagpur,14-05-2024,01-01-1900 11:00,storm,nan,1,0,0,17.0212,79.6565,11,Morning
+Andhra Pradesh,Guntur,03-11-2023,01-01-1900 08:00,clear,highway,1,1,0,26.5254,82.5777,8,Morning
+Telangana,Hyderabad,13-08-2023,01-01-1900 16:00,foggy,nan,3,0,0,25.1493,84.2546,16,Afternoon
+Bihar,Bhagalpur,29-12-2023,01-01-1900 23:00,clear,city road,3,1,1,23.0777,79.9047,23,Night
+Andhra Pradesh,Guntur,27-04-2024,01-01-1900 08:00,clear,highway,2,2,1,17.1922,79.9646,8,Morning
+Delhi,Dwarka,12-02-2023,01-01-1900 22:00,foggy,nan,3,2,0,15.4994,83.5483,22,Night
+Maharashtra,Mumbai,12-05-2023,01-01-1900 00:00,foggy,highway,3,3,0,25.039,85.5583,0,Night
+Maharashtra,Mumbai,25-10-2023,01-01-1900 20:00,foggy,rural road,2,1,1,13.4142,84.6884,20,Evening
+Bihar,Patna,22-02-2024,01-01-1900 05:00,storm,nan,2,0,0,12.4984,79.8553,5,Morning
+Tamil Nadu,Chennai,15-03-2023,01-01-1900 02:00,heavy rain,rural road,4,2,0,12.6237,84.3353,2,Night
+UP,Kanpur,11-01-2023,01-01-1900 03:00,clear,city road,2,2,0,26.2099,80.5782,3,Night
+Andhra Pradesh,Vijayawada,05-10-2023,01-01-1900 23:00,rain,city road,2,2,1,15.9841,83.3437,23,Night
+Karnataka,Bengaluru,29-01-2023,01-01-1900 17:00,rain,highway,1,2,1,25.7284,87.9739,17,Evening
+Tamil Nadu,Chennai,27-04-2023,01-01-1900 13:00,foggy,national highway,3,0,0,12.3588,80.9647,13,Afternoon
+Telangana,Warangal,28-03-2023,01-01-1900 03:00,nan,national highway,3,2,2,17.0044,84.1978,3,Night
+Andhra Pradesh,Guntur,02-04-2023,01-01-1900 13:00,foggy,highway,4,2,2,24.1968,77.4283,13,Afternoon
+Telangana,Warangal,14-04-2024,01-01-1900 15:00,clear,highway,1,2,2,21.0143,83.8708,15,Afternoon
+Karnataka,Mysuru,17-08-2023,01-01-1900 23:00,rain,highway,4,2,2,21.2952,87.8975,23,Night
+UP,Kanpur,13-06-2023,01-01-1900 15:00,storm,highway,4,1,2,23.3184,81.2815,15,Afternoon
+UP,Kanpur,09-10-2023,01-01-1900 15:00,heavy rain,rural road,1,2,0,26.8509,87.2205,15,Afternoon
+Telangana,Hyderabad,05-07-2023,01-01-1900 00:00,clear,national highway,4,2,1,15.3862,87.9519,0,Night
+Karnataka,Mysuru,24-08-2023,01-01-1900 04:00,nan,city road,2,2,1,21.4905,77.5868,4,Night
+Andhra Pradesh,Tirupati,10-07-2023,01-01-1900 01:00,nan,rural road,2,4,0,22.8405,81.1043,1,Night
+UP,Lucknow,27-01-2024,01-01-1900 05:00,foggy,highway,3,4,0,23.1542,84.135,5,Morning
+Telangana,Hyderabad,31-01-2023,01-01-1900 20:00,nan,expressway,2,1,0,22.175,83.5923,20,Evening
+Maharashtra,Nagpur,14-09-2023,01-01-1900 09:00,foggy,city road,3,2,0,19.2828,84.3454,9,Morning
+Andhra Pradesh,Guntur,20-07-2023,01-01-1900 05:00,storm,rural road,3,1,1,12.3063,85.5701,5,Morning
+UP,Lucknow,19-05-2023,01-01-1900 03:00,nan,national highway,3,3,1,25.4105,85.8309,3,Night
+Maharashtra,Mumbai,10-10-2023,01-01-1900 06:00,heavy rain,national highway,1,2,0,19.8159,81.4208,6,Morning
+Delhi,New Delhi,28-04-2024,01-01-1900 09:00,rain,national highway,4,2,0,16.4322,87.1344,9,Morning
+Telangana,Warangal,28-07-2023,01-01-1900 23:00,foggy,highway,4,4,2,17.6788,77.5719,23,Night
+Telangana,Nizamabad,17-02-2023,01-01-1900 22:00,heavy rain,highway,2,1,0,13.353,83.6753,22,Night
+Delhi,Dwarka,07-02-2024,01-01-1900 04:00,nan,national highway,4,0,1,25.8079,86.747,4,Night
+Telangana,Hyderabad,18-10-2023,01-01-1900 20:00,rain,highway,2,2,0,16.5843,85.829,20,Evening
+Bihar,Patna,21-08-2023,01-01-1900 10:00,clear,city road,1,2,1,27.5741,82.1151,10,Morning
+Maharashtra,Pune,15-05-2024,01-01-1900 08:00,nan,highway,4,1,0,27.6055,85.9867,8,Morning
+Karnataka,Mysuru,07-07-2023,01-01-1900 16:00,rain,highway,4,1,0,13.1366,79.3187,16,Afternoon
+Andhra Pradesh,Guntur,25-12-2023,01-01-1900 17:00,foggy,highway,3,1,0,16.297,78.1108,17,Evening
+Telangana,Warangal,27-08-2023,01-01-1900 14:00,rain,highway,2,1,0,27.5692,85.3522,14,Afternoon
+Delhi,New Delhi,12-06-2023,01-01-1900 10:00,heavy rain,highway,4,1,1,16.4539,85.7812,10,Morning
+Tamil Nadu,Coimbatore,18-10-2023,01-01-1900 01:00,clear,national highway,0,0,0,15.7201,78.4265,1,Night
+UP,Kanpur,10-05-2023,01-01-1900 20:00,rain,city road,1,1,0,22.7839,77.6882,20,Evening
+Tamil Nadu,Madurai,02-04-2024,01-01-1900 08:00,clear,highway,4,2,0,14.3508,80.7691,8,Morning
+Bihar,Bhagalpur,19-12-2023,01-01-1900 05:00,rain,highway,4,1,0,16.8387,83.1975,5,Morning
+Karnataka,Mysuru,07-12-2023,01-01-1900 23:00,clear,city road,4,1,1,21.2912,82.5606,23,Night
+Maharashtra,Nagpur,05-01-2024,01-01-1900 00:00,foggy,highway,4,2,0,16.3782,82.3662,0,Night
+Karnataka,Mangalore,13-07-2023,01-01-1900 06:00,heavy rain,city road,1,1,0,16.9034,86.0462,6,Morning
+Telangana,Nizamabad,13-09-2023,01-01-1900 20:00,foggy,rural road,3,1,0,19.3349,84.9751,20,Evening
+Karnataka,Mysuru,08-08-2023,01-01-1900 11:00,foggy,expressway,4,4,1,24.4328,86.4842,11,Morning
+Telangana,Hyderabad,17-02-2024,01-01-1900 03:00,clear,expressway,4,2,0,25.4417,87.884,3,Night
+Andhra Pradesh,Visakhapatnam,12-03-2024,01-01-1900 13:00,heavy rain,rural road,4,1,1,15.1227,82.3833,13,Afternoon
+Bihar,Gaya,09-04-2024,01-01-1900 20:00,clear,national highway,2,1,2,19.7309,86.2205,20,Evening
+UP,Varanasi,04-05-2023,01-01-1900 00:00,clear,highway,1,3,0,18.5089,80.6106,0,Night
+Delhi,New Delhi,06-05-2024,01-01-1900 18:00,heavy rain,expressway,4,3,0,14.016,79.1606,18,Evening
+Karnataka,Mangalore,19-07-2023,01-01-1900 23:00,foggy,national highway,2,4,2,19.834,84.0922,23,Night
+UP,Varanasi,14-04-2024,01-01-1900 08:00,rain,city road,1,2,0,17.9548,84.2783,8,Morning
+Telangana,Nizamabad,15-07-2023,01-01-1900 00:00,storm,highway,3,2,0,14.9643,80.0651,0,Night
+UP,Kanpur,04-12-2023,01-01-1900 01:00,rain,city road,1,1,0,25.2114,80.1428,1,Night
+Telangana,Hyderabad,25-05-2023,01-01-1900 08:00,rain,highway,4,0,1,17.9928,85.7751,8,Morning
+UP,Lucknow,07-09-2023,01-01-1900 20:00,heavy rain,highway,4,1,0,20.9086,86.2963,20,Evening
+Andhra Pradesh,Guntur,04-12-2023,01-01-1900 18:00,rain,national highway,3,1,1,22.7642,79.4255,18,Evening
+Telangana,Hyderabad,07-11-2023,01-01-1900 00:00,foggy,city road,3,2,0,15.9947,79.8957,0,Night
+Karnataka,Mysuru,21-05-2023,01-01-1900 15:00,rain,national highway,3,2,2,24.0043,78.6725,15,Afternoon
+Maharashtra,Mumbai,12-04-2023,01-01-1900 21:00,foggy,highway,3,0,0,13.5004,82.3474,21,Night
+Maharashtra,Pune,15-11-2023,01-01-1900 03:00,foggy,city road,3,0,0,15.8103,86.9928,3,Night
+Maharashtra,Nagpur,29-07-2023,01-01-1900 09:00,foggy,highway,1,0,1,24.1692,78.6994,9,Morning
+Delhi,Dwarka,16-03-2023,01-01-1900 10:00,clear,national highway,1,1,0,21.5506,87.9951,10,Morning
+Telangana,Warangal,26-05-2023,01-01-1900 19:00,heavy rain,highway,3,1,2,25.2408,78.8778,19,Evening
+UP,Varanasi,23-01-2024,01-01-1900 13:00,nan,city road,2,2,1,21.8421,87.0167,13,Afternoon
+Bihar,Patna,04-11-2023,01-01-1900 10:00,heavy rain,expressway,1,2,4,12.8039,77.384,10,Morning
+Maharashtra,Mumbai,06-03-2024,01-01-1900 12:00,nan,national highway,1,0,2,25.4269,78.7675,12,Afternoon
+Delhi,Dwarka,10-02-2023,01-01-1900 17:00,storm,expressway,1,1,0,15.7997,77.5458,17,Evening
+Telangana,Warangal,25-04-2024,01-01-1900 19:00,clear,city road,1,1,1,21.7331,80.0915,19,Evening
+Tamil Nadu,Chennai,15-02-2023,01-01-1900 06:00,clear,highway,1,1,0,24.8231,81.313,6,Morning
+Delhi,Rohini,10-11-2023,01-01-1900 12:00,foggy,city road,4,1,1,24.3643,79.6063,12,Afternoon
+UP,Varanasi,17-08-2023,01-01-1900 21:00,heavy rain,expressway,4,2,2,26.8663,81.2605,21,Night
+Maharashtra,Pune,31-12-2023,01-01-1900 02:00,heavy rain,highway,2,2,2,24.4039,79.5787,2,Night
+Bihar,Gaya,07-04-2023,01-01-1900 15:00,rain,city road,3,1,0,27.3839,84.3465,15,Afternoon
+Karnataka,Bengaluru,14-04-2024,01-01-1900 11:00,storm,expressway,2,1,1,21.7834,84.4635,11,Morning
+Telangana,Hyderabad,25-08-2023,01-01-1900 03:00,heavy rain,nan,4,3,0,27.1546,86.7334,3,Night
+Telangana,Warangal,09-08-2023,01-01-1900 06:00,foggy,nan,4,0,1,16.5059,87.597,6,Morning
+UP,Lucknow,31-05-2023,01-01-1900 06:00,foggy,expressway,3,3,2,27.8417,80.4307,6,Morning
+Telangana,Hyderabad,28-02-2023,01-01-1900 01:00,clear,city road,1,1,0,19.0848,79.8715,1,Night
+UP,Lucknow,23-04-2023,01-01-1900 23:00,storm,city road,2,3,0,26.9678,79.0431,23,Night
+Telangana,Hyderabad,15-09-2023,01-01-1900 22:00,clear,highway,2,2,0,12.9889,78.016,22,Night
+Andhra Pradesh,Tirupati,08-08-2023,01-01-1900 10:00,foggy,national highway,1,2,0,14.4076,87.6488,10,Morning
+Andhra Pradesh,Tirupati,23-03-2024,01-01-1900 07:00,rain,highway,1,2,1,15.9465,82.1806,7,Morning
+Karnataka,Bengaluru,21-02-2023,01-01-1900 09:00,storm,rural road,3,3,0,24.0619,83.3568,9,Morning
+Delhi,Dwarka,30-12-2023,01-01-1900 10:00,rain,national highway,1,0,2,18.4385,86.7305,10,Morning
+Andhra Pradesh,Guntur,23-10-2023,01-01-1900 23:00,rain,city road,1,3,0,16.3461,79.0967,23,Night
+Bihar,Bhagalpur,31-03-2023,01-01-1900 08:00,rain,rural road,4,1,0,18.8793,86.1404,8,Morning
+Telangana,Warangal,12-02-2024,01-01-1900 14:00,clear,highway,1,2,0,20.5033,80.1674,14,Afternoon
+Karnataka,Mysuru,07-09-2023,01-01-1900 09:00,nan,highway,4,0,0,21.5373,81.7723,9,Morning
+UP,Kanpur,05-12-2023,01-01-1900 00:00,clear,city road,3,3,1,17.5033,85.063,0,Night
+Telangana,Nizamabad,19-05-2023,01-01-1900 04:00,foggy,nan,1,2,1,25.1357,83.2327,4,Night
+UP,Kanpur,24-07-2023,01-01-1900 03:00,clear,expressway,3,2,1,18.3923,80.5947,3,Night
+Tamil Nadu,Coimbatore,11-03-2023,01-01-1900 13:00,clear,national highway,1,1,1,21.2297,82.1038,13,Afternoon
+UP,Lucknow,12-03-2023,01-01-1900 16:00,rain,expressway,3,3,0,12.5191,84.2459,16,Afternoon
+Andhra Pradesh,Tirupati,15-02-2023,01-01-1900 04:00,heavy rain,expressway,3,0,1,14.7604,83.2477,4,Night
+UP,Lucknow,26-07-2023,01-01-1900 21:00,storm,expressway,4,2,0,25.0998,87.8192,21,Night
+Telangana,Warangal,17-10-2023,01-01-1900 15:00,clear,highway,1,0,0,12.8056,77.5804,15,Afternoon
+Karnataka,Mysuru,18-11-2023,01-01-1900 09:00,storm,nan,2,1,2,15.6243,83.7537,9,Morning
+Tamil Nadu,Chennai,31-08-2023,01-01-1900 00:00,foggy,highway,1,2,0,17.7473,86.0591,0,Night
+Maharashtra,Nagpur,15-12-2023,01-01-1900 14:00,foggy,city road,1,1,2,17.6131,80.9882,14,Afternoon
+Tamil Nadu,Coimbatore,03-09-2023,01-01-1900 09:00,rain,expressway,4,1,2,15.3449,77.9316,9,Morning
+UP,Lucknow,15-01-2023,01-01-1900 09:00,nan,expressway,4,0,1,25.4545,79.4336,9,Morning
+Andhra Pradesh,Visakhapatnam,07-05-2024,01-01-1900 04:00,storm,national highway,1,3,0,25.178,81.2307,4,Night
+UP,Varanasi,02-02-2023,01-01-1900 05:00,rain,highway,3,0,0,26.9209,78.3051,5,Morning
+UP,Lucknow,14-04-2024,01-01-1900 20:00,foggy,rural road,2,2,1,20.5052,77.3592,20,Evening
+Delhi,Rohini,04-05-2024,01-01-1900 18:00,nan,highway,1,0,0,14.5795,84.2205,18,Evening
+Bihar,Gaya,25-01-2024,01-01-1900 07:00,rain,city road,4,2,1,23.4361,77.753,7,Morning
+Telangana,Warangal,26-01-2024,01-01-1900 11:00,foggy,national highway,1,0,0,21.8047,87.3233,11,Morning
+Maharashtra,Pune,13-08-2023,01-01-1900 21:00,heavy rain,city road,2,1,0,17.6747,83.0573,21,Night
+Telangana,Hyderabad,18-01-2023,01-01-1900 04:00,rain,rural road,1,3,0,25.0347,83.7301,4,Night
+Tamil Nadu,Chennai,20-10-2023,01-01-1900 15:00,rain,expressway,2,0,0,13.694,80.9039,15,Afternoon
+Karnataka,Mangalore,02-06-2023,01-01-1900 03:00,storm,city road,1,4,0,22.5306,77.7712,3,Night
+Maharashtra,Pune,27-12-2023,01-01-1900 11:00,foggy,national highway,1,0,0,14.509,86.1003,11,Morning
+Andhra Pradesh,Vijayawada,26-10-2023,01-01-1900 15:00,clear,highway,3,1,0,14.6913,86.6726,15,Afternoon
+Delhi,Rohini,12-04-2024,01-01-1900 01:00,storm,highway,1,0,1,20.0388,85.0463,1,Night
+Bihar,Patna,19-05-2023,01-01-1900 23:00,rain,highway,4,2,1,22.0771,81.4353,23,Night
+Tamil Nadu,Chennai,21-04-2024,01-01-1900 01:00,heavy rain,expressway,4,2,2,22.839,81.713,1,Night
+Karnataka,Mysuru,26-12-2023,01-01-1900 13:00,rain,rural road,1,2,1,14.343,86.1622,13,Afternoon
+Andhra Pradesh,Guntur,29-04-2023,01-01-1900 02:00,heavy rain,nan,1,3,1,18.9008,81.1694,2,Night
+Karnataka,Mysuru,03-04-2023,01-01-1900 09:00,rain,national highway,2,1,1,25.5074,82.3242,9,Morning
+Telangana,Warangal,25-04-2024,01-01-1900 17:00,storm,highway,3,0,1,21.1687,80.5773,17,Evening
+Maharashtra,Nagpur,06-05-2023,01-01-1900 16:00,nan,highway,1,1,1,23.6539,80.8039,16,Afternoon
+Tamil Nadu,Chennai,06-03-2024,01-01-1900 16:00,clear,highway,2,3,1,27.1481,81.4023,16,Afternoon
+Bihar,Bhagalpur,27-01-2024,01-01-1900 14:00,clear,rural road,1,1,1,27.8453,77.2835,14,Afternoon
+UP,Kanpur,10-01-2023,01-01-1900 12:00,storm,highway,2,3,2,23.0087,78.3243,12,Afternoon
+Delhi,New Delhi,10-04-2024,01-01-1900 19:00,clear,expressway,2,0,1,16.9155,83.011,19,Evening
+Andhra Pradesh,Vijayawada,11-10-2023,01-01-1900 12:00,storm,rural road,3,0,0,14.735,81.5996,12,Afternoon
+Andhra Pradesh,Visakhapatnam,14-02-2024,01-01-1900 21:00,rain,city road,3,2,1,13.346,81.3241,21,Night
+Andhra Pradesh,Vijayawada,07-06-2023,01-01-1900 18:00,clear,city road,4,3,2,14.6083,79.5719,18,Evening
+Tamil Nadu,Coimbatore,30-01-2023,01-01-1900 18:00,clear,expressway,3,2,0,26.8234,81.6159,18,Evening
+Bihar,Patna,27-04-2023,01-01-1900 20:00,foggy,expressway,1,0,2,12.4584,83.4158,20,Evening
+Delhi,New Delhi,11-10-2023,01-01-1900 22:00,clear,nan,3,1,0,21.4136,81.3745,22,Night
+Andhra Pradesh,Guntur,29-06-2023,01-01-1900 03:00,storm,highway,1,2,1,16.4038,84.8038,3,Night
+UP,Kanpur,15-03-2023,01-01-1900 00:00,rain,national highway,4,2,0,17.9956,83.0486,0,Night
+Delhi,New Delhi,29-05-2023,01-01-1900 04:00,rain,expressway,2,1,0,25.3178,85.8621,4,Night
+Delhi,New Delhi,13-07-2023,01-01-1900 18:00,foggy,rural road,1,1,0,25.0769,87.2344,18,Evening
+UP,Varanasi,11-01-2024,01-01-1900 03:00,storm,highway,4,1,0,17.3993,86.5776,3,Night
+Delhi,New Delhi,22-08-2023,01-01-1900 10:00,heavy rain,rural road,4,1,0,17.3504,81.3403,10,Morning
+Tamil Nadu,Coimbatore,07-02-2024,01-01-1900 13:00,foggy,expressway,2,0,1,21.1519,85.8598,13,Afternoon
+Maharashtra,Pune,10-06-2023,01-01-1900 03:00,foggy,rural road,2,1,1,14.388,79.9499,3,Night
+Andhra Pradesh,Guntur,03-03-2023,01-01-1900 13:00,storm,nan,1,0,0,22.8752,77.6235,13,Afternoon
+Karnataka,Mangalore,19-03-2024,01-01-1900 16:00,foggy,national highway,2,1,0,23.1546,79.1278,16,Afternoon
+Delhi,Rohini,08-11-2023,01-01-1900 19:00,clear,highway,3,0,1,26.1774,86.8526,19,Evening
+Bihar,Bhagalpur,10-03-2023,01-01-1900 23:00,rain,city road,1,0,0,18.5809,79.6458,23,Night
+Maharashtra,Mumbai,29-04-2023,01-01-1900 09:00,rain,highway,4,3,0,22.7695,86.0679,9,Morning
+Tamil Nadu,Coimbatore,23-09-2023,01-01-1900 08:00,rain,national highway,3,0,0,23.8072,80.9652,8,Morning
+Maharashtra,Nagpur,21-01-2024,01-01-1900 03:00,clear,city road,0,0,1,13.2997,87.9184,3,Night
+Tamil Nadu,Chennai,08-09-2023,01-01-1900 00:00,heavy rain,national highway,4,3,2,25.8576,80.1838,0,Night
+Telangana,Warangal,31-03-2024,01-01-1900 13:00,clear,highway,2,4,0,18.579,81.7024,13,Afternoon
+Tamil Nadu,Madurai,08-02-2023,01-01-1900 10:00,rain,national highway,4,2,0,25.6092,79.2168,10,Morning
+Andhra Pradesh,Tirupati,21-02-2023,01-01-1900 22:00,heavy rain,expressway,1,2,1,25.1724,83.1181,22,Night
+Tamil Nadu,Madurai,11-04-2023,01-01-1900 08:00,foggy,rural road,2,0,0,24.2458,79.7833,8,Morning
+Tamil Nadu,Chennai,11-08-2023,01-01-1900 02:00,nan,highway,2,3,1,17.1893,84.4413,2,Night
+Delhi,Dwarka,29-09-2023,01-01-1900 21:00,clear,city road,3,4,2,22.9205,83.329,21,Night
+Maharashtra,Mumbai,23-04-2023,01-01-1900 03:00,foggy,rural road,3,0,0,24.2973,79.489,3,Night
+Delhi,Rohini,23-07-2023,01-01-1900 22:00,storm,nan,4,0,1,22.0053,85.2179,22,Night
+UP,Lucknow,15-10-2023,01-01-1900 10:00,rain,rural road,4,2,0,25.5911,77.495,10,Morning
+Tamil Nadu,Coimbatore,22-11-2023,01-01-1900 01:00,storm,rural road,2,0,2,19.6565,87.2175,1,Night
+Delhi,New Delhi,06-11-2023,01-01-1900 17:00,clear,rural road,1,1,1,12.2189,77.8976,17,Evening
+Andhra Pradesh,Guntur,05-07-2023,01-01-1900 17:00,foggy,expressway,4,0,2,20.7703,78.9211,17,Evening
+Tamil Nadu,Madurai,11-01-2024,01-01-1900 07:00,clear,highway,1,3,0,27.4448,77.5546,7,Morning
+Tamil Nadu,Chennai,20-05-2023,01-01-1900 23:00,foggy,highway,4,2,1,21.0227,82.5031,23,Night
+UP,Lucknow,08-01-2023,01-01-1900 23:00,rain,highway,4,0,2,26.6763,81.4725,23,Night
+Andhra Pradesh,Visakhapatnam,21-05-2023,01-01-1900 14:00,rain,national highway,4,2,0,16.6937,82.7802,14,Afternoon
+Maharashtra,Nagpur,01-10-2023,01-01-1900 16:00,foggy,highway,4,2,1,24.6751,84.44,16,Afternoon
+Andhra Pradesh,Tirupati,30-01-2024,01-01-1900 07:00,rain,rural road,1,2,1,16.7332,77.0122,7,Morning
+Karnataka,Bengaluru,18-03-2024,01-01-1900 15:00,rain,city road,4,0,0,22.5894,83.9708,15,Afternoon
+Bihar,Gaya,30-07-2023,01-01-1900 09:00,foggy,highway,3,1,1,23.6604,80.5588,9,Morning
+Bihar,Bhagalpur,13-09-2023,01-01-1900 10:00,rain,rural road,4,2,2,17.4837,78.4803,10,Morning
+Telangana,Warangal,07-03-2023,01-01-1900 00:00,rain,city road,2,2,1,13.6549,81.4223,0,Night
+Bihar,Patna,19-01-2024,01-01-1900 17:00,foggy,highway,3,3,1,13.8915,77.0003,17,Evening
+Delhi,Rohini,31-03-2024,01-01-1900 11:00,foggy,national highway,2,0,2,16.0717,77.1419,11,Morning
+Tamil Nadu,Coimbatore,19-04-2024,01-01-1900 23:00,nan,expressway,4,3,1,27.3221,83.2232,23,Night
+Maharashtra,Nagpur,07-04-2023,01-01-1900 06:00,nan,national highway,1,0,1,20.782,81.1798,6,Morning
+Tamil Nadu,Coimbatore,18-11-2023,01-01-1900 00:00,clear,national highway,4,0,2,15.8448,78.0446,0,Night
+Tamil Nadu,Chennai,31-10-2023,01-01-1900 04:00,heavy rain,national highway,2,1,0,14.8304,87.8607,4,Night
+Delhi,Rohini,31-01-2024,01-01-1900 18:00,nan,city road,2,3,1,25.9779,87.9513,18,Evening
+Karnataka,Bengaluru,01-09-2023,01-01-1900 00:00,rain,highway,2,3,1,17.2311,80.3632,0,Night
+Telangana,Hyderabad,14-10-2023,01-01-1900 12:00,foggy,highway,4,4,0,22.9151,80.4676,12,Afternoon
+Tamil Nadu,Chennai,29-04-2024,01-01-1900 20:00,foggy,rural road,4,2,0,14.0532,83.3634,20,Evening
+Delhi,New Delhi,13-01-2023,01-01-1900 11:00,rain,highway,4,3,2,24.0556,86.6015,11,Morning
+Karnataka,Mangalore,06-01-2023,01-01-1900 06:00,nan,expressway,2,4,0,21.9068,79.053,6,Morning
+Andhra Pradesh,Visakhapatnam,18-01-2023,01-01-1900 20:00,storm,rural road,1,4,0,25.5993,79.1587,20,Evening
+Andhra Pradesh,Tirupati,08-11-2023,01-01-1900 20:00,storm,city road,4,1,0,21.369,82.9551,20,Evening
+Karnataka,Mangalore,12-01-2024,01-01-1900 05:00,nan,rural road,1,2,0,20.7095,79.5711,5,Morning
+Tamil Nadu,Madurai,11-11-2023,01-01-1900 23:00,rain,highway,3,3,1,12.6653,82.4794,23,Night
+Andhra Pradesh,Tirupati,02-08-2023,01-01-1900 21:00,rain,city road,2,0,1,16.9243,83.75,21,Night
+UP,Lucknow,22-11-2023,01-01-1900 23:00,clear,national highway,3,3,1,17.8372,84.0506,23,Night
+Telangana,Hyderabad,15-04-2024,01-01-1900 02:00,rain,city road,3,0,0,23.2278,83.1211,2,Night
+Delhi,Dwarka,11-02-2023,01-01-1900 23:00,clear,highway,2,2,0,12.3349,80.4735,23,Night
+Maharashtra,Mumbai,17-10-2023,01-01-1900 10:00,heavy rain,city road,3,0,2,22.8106,81.3553,10,Morning
+Bihar,Gaya,24-10-2023,01-01-1900 11:00,nan,highway,2,1,2,18.5965,87.282,11,Morning
+UP,Kanpur,27-11-2023,01-01-1900 21:00,heavy rain,national highway,3,1,0,21.3527,87.6625,21,Night
+Telangana,Nizamabad,04-12-2023,01-01-1900 20:00,storm,city road,4,1,0,17.4289,82.5652,20,Evening
+Telangana,Nizamabad,03-07-2023,01-01-1900 00:00,foggy,rural road,3,2,0,27.964,81.9691,0,Night
+Karnataka,Bengaluru,13-08-2023,01-01-1900 19:00,foggy,highway,4,0,0,13.8423,86.716,19,Evening
+UP,Kanpur,21-01-2023,01-01-1900 07:00,foggy,rural road,3,0,0,22.555,81.8624,7,Morning
+Tamil Nadu,Madurai,20-01-2024,01-01-1900 04:00,rain,highway,1,1,1,25.0196,87.3455,4,Night
+Andhra Pradesh,Guntur,13-04-2023,01-01-1900 05:00,clear,highway,2,2,1,14.4229,82.2516,5,Morning
+Delhi,New Delhi,02-09-2023,01-01-1900 05:00,rain,rural road,4,3,2,18.4234,80.7189,5,Morning
+Telangana,Warangal,07-03-2023,01-01-1900 10:00,foggy,national highway,3,1,0,14.6026,85.078,10,Morning
+Bihar,Bhagalpur,15-01-2024,01-01-1900 18:00,heavy rain,expressway,2,4,2,25.9506,83.3468,18,Evening
+UP,Lucknow,27-11-2023,01-01-1900 07:00,storm,city road,1,3,0,20.6445,77.8721,7,Morning
+Maharashtra,Pune,18-07-2023,01-01-1900 21:00,clear,national highway,4,3,1,18.341,80.2596,21,Night
+Delhi,Rohini,11-01-2024,01-01-1900 03:00,clear,city road,0,1,0,18.9243,83.5525,3,Night
+UP,Kanpur,30-01-2024,01-01-1900 01:00,foggy,national highway,1,2,2,25.255,77.8821,1,Night
+Delhi,Rohini,12-05-2024,01-01-1900 11:00,foggy,rural road,4,4,0,25.2584,85.6182,11,Morning
+Maharashtra,Mumbai,21-09-2023,01-01-1900 19:00,foggy,highway,4,2,0,13.9895,86.6265,19,Evening
+Delhi,Dwarka,06-08-2023,01-01-1900 10:00,clear,expressway,3,2,1,21.2903,87.2953,10,Morning
+Telangana,Warangal,10-01-2024,01-01-1900 01:00,heavy rain,city road,1,1,3,24.9548,87.4559,1,Night
+Delhi,Dwarka,19-12-2023,01-01-1900 19:00,storm,nan,1,1,0,19.0377,84.0835,19,Evening
+Telangana,Warangal,20-09-2023,01-01-1900 23:00,rain,nan,3,1,0,21.5914,86.9264,23,Night
+Telangana,Warangal,09-05-2024,01-01-1900 03:00,clear,nan,2,0,0,19.0812,77.532,3,Night
+Maharashtra,Nagpur,19-12-2023,01-01-1900 05:00,clear,expressway,4,2,0,21.408,80.8841,5,Morning
+UP,Varanasi,08-03-2023,01-01-1900 08:00,storm,expressway,3,2,2,25.2149,83.946,8,Morning
+Bihar,Bhagalpur,04-08-2023,01-01-1900 20:00,foggy,rural road,1,2,2,18.6263,87.5374,20,Evening
+Bihar,Patna,30-09-2023,01-01-1900 22:00,nan,national highway,4,4,1,15.5278,83.8822,22,Night
+Delhi,New Delhi,17-04-2023,01-01-1900 23:00,clear,national highway,3,0,1,12.9534,83.648,23,Night
+UP,Kanpur,27-01-2024,01-01-1900 00:00,storm,city road,4,2,2,15.6284,84.3317,0,Night
+Tamil Nadu,Chennai,26-02-2023,01-01-1900 18:00,foggy,city road,4,1,0,14.6139,79.029,18,Evening
+Delhi,Rohini,24-02-2023,01-01-1900 21:00,foggy,city road,4,1,0,12.8184,81.3757,21,Night
+Karnataka,Mysuru,28-05-2023,01-01-1900 00:00,storm,highway,2,1,3,18.1245,86.2306,0,Night
+Tamil Nadu,Madurai,15-01-2023,01-01-1900 19:00,foggy,expressway,1,2,0,12.9927,77.7827,19,Evening
+Bihar,Bhagalpur,16-02-2023,01-01-1900 11:00,foggy,expressway,2,4,2,26.0485,83.1366,11,Morning
+Tamil Nadu,Coimbatore,09-03-2023,01-01-1900 09:00,clear,city road,4,2,0,22.3292,77.5014,9,Morning
+Bihar,Bhagalpur,25-11-2023,01-01-1900 03:00,foggy,nan,4,1,0,14.7182,78.3964,3,Night
+Bihar,Gaya,06-02-2023,01-01-1900 13:00,rain,highway,1,2,0,15.9336,80.9395,13,Afternoon
+Andhra Pradesh,Visakhapatnam,24-07-2023,01-01-1900 22:00,foggy,highway,1,3,1,13.2281,77.0461,22,Night
+Karnataka,Mysuru,31-07-2023,01-01-1900 21:00,foggy,city road,4,3,2,18.5726,82.3861,21,Night
+Bihar,Patna,23-01-2024,01-01-1900 08:00,clear,highway,4,1,0,17.3659,78.9479,8,Morning
+Karnataka,Bengaluru,25-09-2023,01-01-1900 09:00,heavy rain,national highway,3,3,1,17.0458,81.3246,9,Morning
+Bihar,Bhagalpur,31-05-2023,01-01-1900 04:00,foggy,expressway,3,1,0,14.8645,85.7727,4,Night
+Karnataka,Mangalore,07-01-2023,01-01-1900 08:00,foggy,rural road,2,2,2,19.6014,87.1468,8,Morning
+UP,Kanpur,28-11-2023,01-01-1900 05:00,nan,rural road,4,1,0,17.599,85.6067,5,Morning
+Maharashtra,Nagpur,03-02-2024,01-01-1900 23:00,heavy rain,national highway,4,2,1,15.5945,81.3927,23,Night
+Tamil Nadu,Madurai,14-04-2023,01-01-1900 11:00,foggy,highway,1,2,0,14.8943,85.7907,11,Morning
+Telangana,Hyderabad,17-08-2023,01-01-1900 18:00,heavy rain,national highway,2,3,0,18.7202,83.362,18,Evening
+Andhra Pradesh,Visakhapatnam,10-10-2023,01-01-1900 08:00,heavy rain,highway,1,2,1,25.8628,77.6558,8,Morning
+Bihar,Gaya,20-02-2023,01-01-1900 17:00,rain,highway,1,1,1,18.6531,83.0345,17,Evening
+Tamil Nadu,Madurai,07-09-2023,01-01-1900 09:00,foggy,highway,4,2,1,27.9444,78.4874,9,Morning
+Andhra Pradesh,Visakhapatnam,22-01-2024,01-01-1900 13:00,storm,highway,2,0,2,14.1282,78.7461,13,Afternoon
+Tamil Nadu,Coimbatore,21-05-2023,01-01-1900 21:00,storm,highway,2,1,0,22.7075,82.3218,21,Night
+Telangana,Warangal,11-12-2023,01-01-1900 09:00,storm,national highway,2,0,0,21.5005,83.3315,9,Morning
+Bihar,Patna,17-12-2023,01-01-1900 09:00,foggy,national highway,2,1,0,20.8555,83.2732,9,Morning
+Delhi,Rohini,31-08-2023,01-01-1900 20:00,clear,city road,3,2,0,12.4032,80.9032,20,Evening
+Delhi,Rohini,11-06-2023,01-01-1900 14:00,foggy,nan,4,2,2,16.1786,84.6445,14,Afternoon
+Karnataka,Mysuru,28-01-2024,01-01-1900 08:00,heavy rain,city road,3,3,1,23.7604,83.7112,8,Morning
+Tamil Nadu,Chennai,13-11-2023,01-01-1900 16:00,clear,highway,1,0,0,16.1813,81.6101,16,Afternoon
+Andhra Pradesh,Tirupati,19-12-2023,01-01-1900 22:00,nan,nan,4,2,3,16.611,77.0711,22,Night
+Maharashtra,Mumbai,30-08-2023,01-01-1900 04:00,rain,highway,4,0,0,23.7537,77.2634,4,Night
+Bihar,Patna,17-06-2023,01-01-1900 18:00,clear,highway,1,2,1,14.7905,82.1881,18,Evening
+Delhi,Dwarka,18-01-2024,01-01-1900 06:00,rain,rural road,2,2,0,20.8085,81.481,6,Morning
+Andhra Pradesh,Guntur,03-03-2023,01-01-1900 20:00,foggy,rural road,4,3,1,15.1407,77.2482,20,Evening
+UP,Lucknow,06-05-2024,01-01-1900 16:00,storm,national highway,3,2,2,26.2505,83.5664,16,Afternoon
+Karnataka,Mangalore,09-03-2024,01-01-1900 02:00,heavy rain,highway,4,1,2,23.9978,87.0435,2,Night
+Delhi,New Delhi,04-04-2023,01-01-1900 20:00,storm,expressway,4,0,1,16.3008,79.1851,20,Evening
+Andhra Pradesh,Guntur,15-06-2023,01-01-1900 13:00,clear,city road,3,1,0,20.8821,83.4679,13,Afternoon
+Karnataka,Bengaluru,31-01-2024,01-01-1900 04:00,nan,city road,1,4,0,13.3052,77.9657,4,Night
+Telangana,Warangal,21-03-2024,01-01-1900 10:00,heavy rain,city road,3,2,0,15.4239,80.1161,10,Morning
+Andhra Pradesh,Guntur,25-03-2024,01-01-1900 14:00,foggy,highway,4,3,0,12.2218,84.1432,14,Afternoon
+Tamil Nadu,Chennai,30-01-2024,01-01-1900 12:00,rain,city road,1,3,1,26.924,77.2215,12,Afternoon
+Delhi,Dwarka,08-04-2023,01-01-1900 06:00,rain,rural road,3,4,0,22.6084,84.4697,6,Morning
+Telangana,Warangal,04-07-2023,01-01-1900 09:00,foggy,highway,3,0,2,26.076,77.5414,9,Morning
+Andhra Pradesh,Visakhapatnam,09-01-2024,01-01-1900 20:00,clear,nan,2,2,0,16.0991,79.4272,20,Evening
+Andhra Pradesh,Vijayawada,02-11-2023,01-01-1900 06:00,rain,expressway,4,4,1,15.8251,85.3384,6,Morning
+Karnataka,Mysuru,26-03-2024,01-01-1900 03:00,clear,rural road,2,1,2,18.5709,79.3066,3,Night
+Andhra Pradesh,Visakhapatnam,15-01-2023,01-01-1900 15:00,foggy,rural road,1,2,1,26.9527,80.3372,15,Afternoon
+Delhi,New Delhi,17-02-2023,01-01-1900 13:00,rain,rural road,4,2,1,23.0665,87.622,13,Afternoon
+Andhra Pradesh,Visakhapatnam,01-09-2023,01-01-1900 15:00,foggy,national highway,3,0,0,22.7473,85.0224,15,Afternoon
+Tamil Nadu,Chennai,23-04-2023,01-01-1900 16:00,foggy,city road,1,0,1,20.0713,80.4341,16,Afternoon
+Maharashtra,Mumbai,09-01-2024,01-01-1900 21:00,rain,highway,4,4,0,23.9234,79.5545,21,Night
+Karnataka,Mysuru,05-08-2023,01-01-1900 11:00,clear,highway,0,0,0,15.1781,85.6173,11,Morning
+Tamil Nadu,Chennai,23-07-2023,01-01-1900 10:00,storm,rural road,3,1,1,24.0205,86.8669,10,Morning
+Bihar,Bhagalpur,15-05-2023,01-01-1900 17:00,rain,highway,3,1,1,27.3007,81.1434,17,Evening
+Delhi,Dwarka,31-01-2024,01-01-1900 17:00,rain,highway,3,1,0,19.7788,78.1991,17,Evening
+Karnataka,Bengaluru,27-04-2023,01-01-1900 14:00,rain,expressway,3,1,0,24.9412,86.6304,14,Afternoon
+Karnataka,Mysuru,24-02-2024,01-01-1900 16:00,foggy,highway,2,2,0,25.7157,85.4112,16,Afternoon
+Andhra Pradesh,Visakhapatnam,04-10-2023,01-01-1900 07:00,rain,city road,1,2,0,27.1204,84.5079,7,Morning
+Karnataka,Mangalore,27-04-2024,01-01-1900 19:00,heavy rain,national highway,1,2,1,22.3316,82.6163,19,Evening
+Bihar,Gaya,14-06-2023,01-01-1900 04:00,clear,highway,3,1,0,24.8383,86.4756,4,Night
+Telangana,Hyderabad,22-01-2024,01-01-1900 13:00,foggy,rural road,2,3,0,24.0292,85.9314,13,Afternoon
+UP,Kanpur,30-10-2023,01-01-1900 06:00,rain,highway,2,1,1,25.7361,78.4486,6,Morning
+Karnataka,Bengaluru,16-08-2023,01-01-1900 04:00,rain,highway,1,3,1,22.8436,79.7755,4,Night
+Bihar,Gaya,25-02-2024,01-01-1900 03:00,foggy,highway,3,1,1,12.8582,84.8921,3,Night
+Bihar,Gaya,27-10-2023,01-01-1900 05:00,clear,city road,1,3,0,18.1344,78.8511,5,Morning
+Bihar,Bhagalpur,08-05-2024,01-01-1900 13:00,clear,highway,1,2,2,15.0271,84.9242,13,Afternoon
+Delhi,Dwarka,08-12-2023,01-01-1900 08:00,rain,highway,1,4,1,19.3744,86.1158,8,Morning
+Maharashtra,Mumbai,04-02-2024,01-01-1900 22:00,nan,expressway,4,2,1,13.6864,86.2274,22,Night
+Telangana,Hyderabad,09-05-2024,01-01-1900 07:00,foggy,rural road,1,3,2,17.8077,86.6721,7,Morning
+UP,Varanasi,17-01-2024,01-01-1900 13:00,nan,expressway,2,1,1,18.5244,86.7502,13,Afternoon
+Bihar,Gaya,03-07-2023,01-01-1900 21:00,rain,nan,3,3,2,16.3289,79.7367,21,Night
+Karnataka,Bengaluru,13-10-2023,01-01-1900 17:00,foggy,national highway,2,1,1,24.4081,81.3243,17,Evening
+Tamil Nadu,Coimbatore,29-02-2024,01-01-1900 09:00,rain,highway,4,2,1,17.9062,80.9291,9,Morning
+Bihar,Gaya,22-06-2023,01-01-1900 14:00,nan,city road,3,2,1,19.0506,86.6791,14,Afternoon
+Maharashtra,Nagpur,03-10-2023,01-01-1900 05:00,rain,city road,1,5,3,14.2139,87.8101,5,Morning
+Delhi,Rohini,01-07-2023,01-01-1900 12:00,foggy,highway,3,1,0,22.6103,83.549,12,Afternoon
+Tamil Nadu,Madurai,21-03-2023,01-01-1900 21:00,clear,rural road,2,0,0,24.561,79.1528,21,Night
+Tamil Nadu,Chennai,07-01-2023,01-01-1900 09:00,clear,expressway,4,2,2,18.7035,82.0383,9,Morning
+UP,Varanasi,22-10-2023,01-01-1900 12:00,rain,national highway,4,3,0,20.206,80.5294,12,Afternoon
+Karnataka,Mysuru,16-03-2024,01-01-1900 22:00,foggy,highway,4,2,0,17.5203,77.6021,22,Night
+Tamil Nadu,Coimbatore,18-05-2023,01-01-1900 18:00,storm,expressway,4,1,0,15.5142,77.0025,18,Evening
+Andhra Pradesh,Visakhapatnam,02-09-2023,01-01-1900 22:00,nan,highway,3,1,1,13.9258,77.7437,22,Night
+Bihar,Gaya,27-12-2023,01-01-1900 04:00,heavy rain,highway,4,2,1,18.8886,78.3105,4,Night
+UP,Lucknow,28-01-2024,01-01-1900 17:00,clear,expressway,1,0,1,17.9972,83.8346,17,Evening
+UP,Varanasi,24-03-2023,01-01-1900 23:00,heavy rain,nan,2,1,1,12.5694,87.9376,23,Night
+Telangana,Warangal,21-10-2023,01-01-1900 22:00,foggy,rural road,4,3,0,17.4599,81.886,22,Night
+Maharashtra,Pune,16-02-2023,01-01-1900 05:00,foggy,city road,2,2,3,25.7831,86.5264,5,Morning
+Maharashtra,Mumbai,26-03-2024,01-01-1900 19:00,clear,nan,0,2,0,19.7317,87.8559,19,Evening
+Maharashtra,Mumbai,14-02-2024,01-01-1900 18:00,rain,city road,2,1,1,20.6143,87.9135,18,Evening
+Karnataka,Mangalore,11-07-2023,01-01-1900 18:00,storm,highway,2,0,2,12.1117,81.4383,18,Evening
+Telangana,Warangal,23-04-2024,01-01-1900 09:00,rain,highway,2,2,0,17.3973,86.1028,9,Morning
+Delhi,Dwarka,20-04-2024,01-01-1900 21:00,storm,highway,1,1,0,13.091,79.0584,21,Night
+UP,Lucknow,03-07-2023,01-01-1900 01:00,rain,expressway,1,0,1,18.6783,81.1455,1,Night
+UP,Varanasi,26-11-2023,01-01-1900 06:00,rain,city road,4,0,0,13.7088,87.4874,6,Morning
+Bihar,Patna,09-09-2023,01-01-1900 03:00,storm,expressway,4,1,0,16.7691,80.5244,3,Night
+Andhra Pradesh,Guntur,29-04-2024,01-01-1900 02:00,foggy,highway,3,2,0,13.96,83.984,2,Night
+Andhra Pradesh,Tirupati,14-01-2024,01-01-1900 16:00,rain,highway,1,2,2,13.2457,87.5099,16,Afternoon
+Telangana,Nizamabad,15-04-2023,01-01-1900 15:00,clear,highway,0,2,0,14.701,86.3934,15,Afternoon
+Delhi,New Delhi,19-07-2023,01-01-1900 07:00,foggy,highway,2,2,0,24.3111,87.2828,7,Morning
+Maharashtra,Mumbai,26-04-2024,01-01-1900 20:00,foggy,highway,1,1,1,16.5469,80.1787,20,Evening
+Bihar,Gaya,04-11-2023,01-01-1900 00:00,clear,highway,4,0,0,20.7129,78.7587,0,Night
+Bihar,Patna,04-04-2023,01-01-1900 17:00,foggy,highway,3,0,1,16.9649,82.5368,17,Evening
+Maharashtra,Mumbai,25-01-2024,01-01-1900 03:00,heavy rain,highway,4,2,1,22.3285,78.7135,3,Night
+Andhra Pradesh,Tirupati,05-04-2023,01-01-1900 02:00,heavy rain,rural road,3,0,1,18.0378,81.5487,2,Night
+Tamil Nadu,Chennai,07-01-2024,01-01-1900 10:00,clear,city road,3,1,0,14.8655,81.3144,10,Morning
+Andhra Pradesh,Tirupati,14-07-2023,01-01-1900 04:00,rain,city road,0,1,1,27.7001,81.1978,4,Night
+Tamil Nadu,Madurai,28-09-2023,01-01-1900 09:00,nan,expressway,3,1,2,22.0427,79.1122,9,Morning
+Karnataka,Mangalore,22-04-2024,01-01-1900 10:00,clear,nan,1,3,1,13.1046,80.6827,10,Morning
+Telangana,Hyderabad,26-01-2024,01-01-1900 20:00,rain,highway,4,3,0,17.6953,78.6336,20,Evening
+Tamil Nadu,Madurai,09-09-2023,01-01-1900 19:00,rain,highway,4,3,1,18.114,78.455,19,Evening
+Maharashtra,Nagpur,10-01-2024,01-01-1900 05:00,clear,city road,3,1,0,16.7984,84.0707,5,Morning
+Tamil Nadu,Coimbatore,06-03-2023,01-01-1900 20:00,heavy rain,rural road,4,3,1,17.8,86.064,20,Evening
+Delhi,Dwarka,07-12-2023,01-01-1900 12:00,heavy rain,city road,2,1,0,24.815,78.9817,12,Afternoon
+Delhi,Dwarka,08-10-2023,01-01-1900 13:00,clear,city road,4,3,0,12.4056,84.5905,13,Afternoon
+UP,Lucknow,13-04-2023,01-01-1900 06:00,foggy,highway,0,1,0,21.757,79.6488,6,Morning
+Karnataka,Mysuru,17-01-2024,01-01-1900 21:00,foggy,expressway,2,1,0,14.3546,80.2777,21,Night
+Bihar,Gaya,09-11-2023,01-01-1900 19:00,nan,highway,1,1,0,13.972,80.3845,19,Evening
+Delhi,New Delhi,16-01-2024,01-01-1900 04:00,clear,highway,3,2,2,26.1517,83.0939,4,Night
+Karnataka,Mysuru,05-06-2023,01-01-1900 03:00,foggy,city road,4,0,1,14.6597,87.0814,3,Night
+Maharashtra,Nagpur,10-03-2024,01-01-1900 07:00,foggy,rural road,1,0,0,24.1572,80.7271,7,Morning
+Andhra Pradesh,Visakhapatnam,21-04-2024,01-01-1900 14:00,storm,highway,4,3,1,12.7937,79.8277,14,Afternoon
+Telangana,Hyderabad,11-03-2023,01-01-1900 19:00,foggy,city road,1,0,0,23.9025,87.1113,19,Evening
+Telangana,Warangal,05-11-2023,01-01-1900 15:00,foggy,city road,3,0,0,27.3848,81.8934,15,Afternoon
+Bihar,Gaya,08-04-2024,01-01-1900 05:00,heavy rain,highway,3,0,0,26.5528,83.2585,5,Morning
+Bihar,Bhagalpur,11-02-2023,01-01-1900 10:00,foggy,nan,1,2,1,17.4696,81.7706,10,Morning
+Andhra Pradesh,Visakhapatnam,23-12-2023,01-01-1900 12:00,rain,expressway,4,1,2,24.703,87.3509,12,Afternoon
+Bihar,Gaya,17-05-2023,01-01-1900 02:00,rain,highway,3,3,1,24.8816,86.2954,2,Night
+Tamil Nadu,Chennai,01-04-2023,01-01-1900 11:00,foggy,expressway,0,1,0,18.43,84.4113,11,Morning
+Telangana,Hyderabad,26-10-2023,01-01-1900 20:00,rain,nan,1,3,0,17.7117,83.9822,20,Evening
+Karnataka,Bengaluru,03-01-2024,01-01-1900 02:00,foggy,highway,2,2,0,20.7311,79.2447,2,Night
+Tamil Nadu,Madurai,11-09-2023,01-01-1900 19:00,storm,national highway,1,3,0,19.7216,79.3763,19,Evening
+Tamil Nadu,Madurai,05-03-2023,01-01-1900 22:00,heavy rain,city road,3,1,1,19.6016,86.8775,22,Night
+UP,Varanasi,24-11-2023,01-01-1900 09:00,foggy,national highway,3,4,1,16.0348,81.914,9,Morning
+Karnataka,Bengaluru,01-02-2023,01-01-1900 02:00,rain,highway,1,1,0,12.0151,77.4319,2,Night
+Andhra Pradesh,Vijayawada,13-06-2023,01-01-1900 18:00,rain,expressway,3,3,1,20.8106,78.6846,18,Evening
+Maharashtra,Pune,10-06-2023,01-01-1900 17:00,nan,expressway,2,2,2,23.7,85.4672,17,Evening
+UP,Kanpur,20-03-2024,01-01-1900 14:00,foggy,nan,4,2,1,17.4663,84.1331,14,Afternoon
+Karnataka,Mysuru,07-07-2023,01-01-1900 00:00,foggy,nan,2,1,0,25.0519,83.5704,0,Night
+Bihar,Gaya,23-03-2023,01-01-1900 09:00,heavy rain,city road,4,1,1,25.6728,80.74,9,Morning
+Andhra Pradesh,Visakhapatnam,07-05-2024,01-01-1900 03:00,rain,highway,4,2,1,14.9091,81.7338,3,Night
+Bihar,Patna,04-05-2024,01-01-1900 09:00,rain,highway,3,2,0,20.5656,83.9886,9,Morning
+Delhi,Rohini,18-03-2024,01-01-1900 04:00,storm,highway,1,1,0,12.664,80.5427,4,Night
+Delhi,Rohini,13-04-2024,01-01-1900 15:00,rain,expressway,3,3,1,22.6708,81.7894,15,Afternoon
+Tamil Nadu,Madurai,31-10-2023,01-01-1900 19:00,heavy rain,rural road,4,2,1,16.1425,77.5811,19,Evening
+Delhi,New Delhi,28-09-2023,01-01-1900 15:00,clear,highway,4,1,1,16.8444,82.8572,15,Afternoon
+Andhra Pradesh,Tirupati,07-05-2023,01-01-1900 07:00,rain,national highway,4,4,2,14.6601,81.1771,7,Morning
+Tamil Nadu,Madurai,07-04-2023,01-01-1900 19:00,clear,highway,1,2,1,23.6421,87.1486,19,Evening
+UP,Varanasi,24-02-2024,01-01-1900 00:00,clear,nan,2,2,2,15.0724,84.3335,0,Night
+Karnataka,Mysuru,17-11-2023,01-01-1900 12:00,storm,national highway,1,3,2,19.8366,82.8152,12,Afternoon
+Karnataka,Mysuru,04-05-2024,01-01-1900 00:00,clear,national highway,4,2,1,15.1609,85.8569,0,Night
+Delhi,Dwarka,02-04-2023,01-01-1900 10:00,clear,nan,1,4,0,19.0035,80.0443,10,Morning
+Telangana,Hyderabad,19-03-2023,01-01-1900 03:00,heavy rain,highway,3,0,1,26.9259,87.1491,3,Night
+Andhra Pradesh,Tirupati,25-11-2023,01-01-1900 12:00,rain,city road,4,0,1,23.7941,77.4038,12,Afternoon
+Andhra Pradesh,Vijayawada,26-11-2023,01-01-1900 22:00,storm,highway,1,0,0,26.7286,77.132,22,Night
+Delhi,Dwarka,23-01-2024,01-01-1900 20:00,clear,expressway,3,3,0,19.7603,77.9394,20,Evening
+Andhra Pradesh,Guntur,28-04-2023,01-01-1900 18:00,clear,national highway,1,2,1,21.827,79.6027,18,Evening
+Andhra Pradesh,Visakhapatnam,17-05-2023,01-01-1900 17:00,foggy,city road,2,1,0,13.1983,78.1678,17,Evening
+Maharashtra,Pune,15-01-2023,01-01-1900 14:00,nan,city road,1,1,1,15.1193,82.554,14,Afternoon
+Maharashtra,Nagpur,12-12-2023,01-01-1900 06:00,rain,rural road,1,0,1,12.5834,77.5802,6,Morning
+Andhra Pradesh,Visakhapatnam,07-01-2023,01-01-1900 06:00,rain,city road,4,1,0,25.5039,79.8865,6,Morning
+Karnataka,Mysuru,03-09-2023,01-01-1900 17:00,heavy rain,highway,1,1,0,19.1853,83.3537,17,Evening
+Andhra Pradesh,Visakhapatnam,16-08-2023,01-01-1900 12:00,rain,highway,3,0,1,17.0485,78.1729,12,Afternoon
+UP,Varanasi,12-01-2023,01-01-1900 09:00,rain,national highway,2,1,0,24.2655,87.629,9,Morning
+Andhra Pradesh,Tirupati,31-03-2023,01-01-1900 00:00,rain,highway,2,3,0,16.5633,83.9385,0,Night
+Bihar,Patna,10-01-2024,01-01-1900 22:00,heavy rain,nan,4,0,1,24.1244,80.1011,22,Night
+Andhra Pradesh,Vijayawada,03-12-2023,01-01-1900 02:00,clear,highway,4,2,0,12.8996,82.342,2,Night
+Bihar,Patna,29-11-2023,01-01-1900 01:00,storm,city road,1,2,1,20.7425,79.7472,1,Night
+Delhi,Rohini,06-04-2024,01-01-1900 11:00,rain,highway,3,3,0,20.9475,82.6622,11,Morning
+Karnataka,Mangalore,20-01-2024,01-01-1900 15:00,rain,rural road,1,1,1,21.6514,77.8769,15,Afternoon
+Karnataka,Bengaluru,25-06-2023,01-01-1900 16:00,rain,expressway,2,2,1,21.2106,78.3873,16,Afternoon
+UP,Lucknow,26-02-2024,01-01-1900 13:00,clear,expressway,1,3,1,18.5027,86.6782,13,Afternoon
+Delhi,Dwarka,01-03-2023,01-01-1900 10:00,foggy,expressway,4,2,1,21.9761,78.4442,10,Morning
+Bihar,Patna,03-03-2024,01-01-1900 22:00,clear,expressway,1,0,0,26.5412,85.3644,22,Night
+Maharashtra,Mumbai,05-10-2023,01-01-1900 20:00,nan,highway,1,0,2,14.9447,85.321,20,Evening
+Maharashtra,Pune,01-05-2024,01-01-1900 03:00,nan,highway,4,0,0,21.866,77.4437,3,Night
+Bihar,Bhagalpur,11-11-2023,01-01-1900 18:00,storm,nan,4,1,1,14.3673,87.8312,18,Evening
+Telangana,Warangal,19-12-2023,01-01-1900 18:00,nan,highway,4,1,0,15.2566,85.4597,18,Evening
+Telangana,Hyderabad,06-01-2024,01-01-1900 22:00,storm,rural road,3,4,0,12.3361,77.3787,22,Night
+Bihar,Patna,11-11-2023,01-01-1900 13:00,clear,highway,2,3,0,26.1638,77.9538,13,Afternoon
+Karnataka,Mysuru,21-05-2023,01-01-1900 22:00,clear,national highway,1,3,1,18.2076,86.1252,22,Night
+Maharashtra,Nagpur,19-06-2023,01-01-1900 13:00,foggy,highway,2,0,2,27.0109,80.0312,13,Afternoon
+Karnataka,Mysuru,23-01-2023,01-01-1900 09:00,heavy rain,national highway,4,3,0,24.2451,87.2234,9,Morning
+Karnataka,Bengaluru,15-01-2024,01-01-1900 19:00,storm,rural road,3,2,0,23.8167,77.7017,19,Evening
+Telangana,Warangal,31-08-2023,01-01-1900 01:00,nan,expressway,4,0,0,16.8718,87.8124,1,Night
+Tamil Nadu,Chennai,03-03-2023,01-01-1900 00:00,rain,expressway,2,3,1,27.6259,81.1492,0,Night
+Telangana,Nizamabad,05-04-2023,01-01-1900 18:00,rain,expressway,1,1,0,25.9125,78.9872,18,Evening
+Andhra Pradesh,Vijayawada,27-02-2023,01-01-1900 16:00,clear,national highway,2,3,0,18.3001,83.6903,16,Afternoon
+Bihar,Gaya,20-04-2023,01-01-1900 03:00,foggy,expressway,1,3,0,15.6533,77.643,3,Night
+Telangana,Nizamabad,26-03-2023,01-01-1900 07:00,rain,city road,3,1,0,14.6883,80.9028,7,Morning
+Tamil Nadu,Madurai,07-01-2024,01-01-1900 11:00,storm,expressway,2,1,0,21.3329,86.7278,11,Morning
+Karnataka,Bengaluru,03-11-2023,01-01-1900 16:00,storm,highway,4,2,0,22.6358,81.6127,16,Afternoon
+Andhra Pradesh,Visakhapatnam,23-05-2023,01-01-1900 12:00,storm,highway,3,1,2,20.0742,77.0809,12,Afternoon
+Bihar,Gaya,23-01-2024,01-01-1900 22:00,storm,national highway,1,3,2,12.6144,81.0508,22,Night
+Maharashtra,Pune,23-03-2024,01-01-1900 09:00,rain,national highway,2,1,1,20.0311,87.0092,9,Morning
+UP,Kanpur,16-05-2023,01-01-1900 19:00,heavy rain,expressway,2,2,2,24.7649,86.508,19,Evening
+Delhi,New Delhi,13-02-2024,01-01-1900 14:00,rain,highway,3,0,1,18.1768,87.6338,14,Afternoon
+Bihar,Gaya,06-05-2023,01-01-1900 12:00,clear,expressway,4,1,1,25.8074,82.2862,12,Afternoon
+UP,Lucknow,04-02-2023,01-01-1900 06:00,storm,rural road,3,2,0,18.6746,86.6552,6,Morning
+Bihar,Bhagalpur,25-02-2023,01-01-1900 15:00,foggy,national highway,1,2,0,20.923,77.6007,15,Afternoon
+Telangana,Warangal,25-02-2023,01-01-1900 17:00,foggy,highway,0,2,1,16.654,82.1635,17,Evening
+Maharashtra,Pune,09-08-2023,01-01-1900 07:00,heavy rain,expressway,0,1,1,15.0828,78.4198,7,Morning
+Tamil Nadu,Chennai,17-02-2024,01-01-1900 12:00,clear,city road,1,3,0,19.546,79.5023,12,Afternoon
+Tamil Nadu,Coimbatore,24-04-2023,01-01-1900 07:00,foggy,nan,2,1,0,27.0388,80.7733,7,Morning
+UP,Kanpur,20-04-2023,01-01-1900 07:00,rain,rural road,4,1,1,14.8666,86.8025,7,Morning
+Maharashtra,Mumbai,27-03-2024,01-01-1900 21:00,foggy,expressway,3,4,0,27.7394,77.5519,21,Night
+Delhi,New Delhi,27-12-2023,01-01-1900 02:00,foggy,rural road,2,2,0,16.5092,79.0273,2,Night
+UP,Varanasi,25-03-2024,01-01-1900 15:00,heavy rain,highway,1,1,1,19.4835,83.6649,15,Afternoon
+Bihar,Gaya,06-01-2024,01-01-1900 14:00,rain,rural road,3,1,0,24.536,77.1156,14,Afternoon
+Tamil Nadu,Madurai,27-11-2023,01-01-1900 16:00,nan,rural road,3,2,1,18.9254,82.891,16,Afternoon
+Andhra Pradesh,Visakhapatnam,10-02-2023,01-01-1900 16:00,storm,city road,3,0,0,26.1988,86.8333,16,Afternoon
+Karnataka,Mangalore,04-02-2023,01-01-1900 07:00,clear,expressway,2,3,0,26.8305,87.5826,7,Morning
+Tamil Nadu,Madurai,31-12-2023,01-01-1900 02:00,rain,national highway,2,1,1,16.4591,87.5476,2,Night
+Karnataka,Bengaluru,07-02-2024,01-01-1900 00:00,foggy,national highway,1,2,0,16.5208,80.0691,0,Night
+Karnataka,Bengaluru,17-03-2024,01-01-1900 19:00,clear,rural road,2,2,0,13.3212,78.6997,19,Evening
+Andhra Pradesh,Vijayawada,13-07-2023,01-01-1900 04:00,clear,rural road,4,2,1,16.1407,80.481,4,Night
+Delhi,Rohini,23-10-2023,01-01-1900 22:00,clear,expressway,4,1,0,27.4649,87.3918,22,Night
+Delhi,Dwarka,01-03-2023,01-01-1900 19:00,foggy,rural road,0,2,0,26.5535,77.068,19,Evening
+Karnataka,Mysuru,18-03-2024,01-01-1900 18:00,clear,rural road,2,2,1,12.2271,79.834,18,Evening
+Bihar,Gaya,27-03-2024,01-01-1900 06:00,foggy,rural road,1,4,0,23.7306,87.9496,6,Morning
+Delhi,Dwarka,10-04-2024,01-01-1900 12:00,rain,expressway,3,2,0,20.5332,81.4621,12,Afternoon
+Bihar,Patna,30-06-2023,01-01-1900 10:00,nan,expressway,2,1,2,21.6519,79.4999,10,Morning
+Tamil Nadu,Madurai,24-09-2023,01-01-1900 11:00,storm,rural road,3,4,1,20.2427,87.8931,11,Morning
+Telangana,Warangal,24-01-2024,01-01-1900 15:00,clear,highway,1,0,2,24.3544,78.8751,15,Afternoon
+Maharashtra,Mumbai,14-03-2023,01-01-1900 06:00,foggy,nan,4,0,0,18.9089,85.5996,6,Morning
+Tamil Nadu,Coimbatore,14-02-2024,01-01-1900 04:00,clear,city road,1,3,0,21.2238,80.7628,4,Night
+Tamil Nadu,Coimbatore,13-04-2024,01-01-1900 05:00,rain,highway,4,1,1,15.5901,82.5495,5,Morning
+Maharashtra,Nagpur,13-10-2023,01-01-1900 17:00,rain,expressway,2,2,3,19.1283,87.6367,17,Evening
+Tamil Nadu,Chennai,22-02-2024,01-01-1900 00:00,storm,national highway,3,3,1,14.2312,83.2613,0,Night
+Maharashtra,Pune,24-02-2023,01-01-1900 04:00,heavy rain,city road,4,2,2,23.4882,81.0925,4,Night
+Maharashtra,Pune,04-08-2023,01-01-1900 15:00,foggy,nan,2,4,0,20.2672,85.3465,15,Afternoon
+Maharashtra,Pune,26-08-2023,01-01-1900 09:00,nan,rural road,4,2,0,23.3061,83.7101,9,Morning
+Karnataka,Bengaluru,16-08-2023,01-01-1900 04:00,rain,highway,1,3,1,22.8436,79.7755,4,Night
+Karnataka,Bengaluru,06-04-2023,01-01-1900 13:00,foggy,highway,1,1,0,13.3656,87.9656,13,Afternoon
+Delhi,Dwarka,07-12-2023,01-01-1900 12:00,heavy rain,city road,2,1,0,24.815,78.9817,12,Afternoon
+Karnataka,Bengaluru,25-06-2023,01-01-1900 13:00,foggy,national highway,2,1,1,21.6003,80.2083,13,Afternoon
+Maharashtra,Mumbai,06-03-2024,01-01-1900 12:00,nan,national highway,1,0,2,25.4269,78.7675,12,Afternoon
+Tamil Nadu,Madurai,08-05-2024,01-01-1900 06:00,storm,city road,1,1,0,12.5867,85.1004,6,Morning
+Karnataka,Mangalore,29-01-2023,01-01-1900 12:00,storm,expressway,4,1,0,19.7694,77.3029,12,Afternoon
+Karnataka,Mysuru,27-03-2024,01-01-1900 20:00,rain,highway,2,2,1,14.8681,85.8,20,Evening
+Tamil Nadu,Chennai,28-04-2024,01-01-1900 06:00,rain,city road,1,1,0,17.674,80.1596,6,Morning
+Karnataka,Mysuru,15-09-2023,01-01-1900 01:00,foggy,national highway,2,4,1,12.629,85.7935,1,Night
+Delhi,Dwarka,29-08-2023,01-01-1900 14:00,clear,highway,3,3,0,20.3053,82.271,14,Afternoon
+Karnataka,Mysuru,31-12-2023,01-01-1900 20:00,foggy,nan,3,4,2,12.2095,84.2989,20,Evening
+Telangana,Warangal,12-02-2024,01-01-1900 14:00,clear,highway,1,2,0,20.5033,80.1674,14,Afternoon
+Tamil Nadu,Madurai,29-02-2024,01-01-1900 22:00,nan,highway,2,3,0,15.2297,84.4078,22,Night
+Bihar,Bhagalpur,11-11-2023,01-01-1900 18:00,storm,nan,4,1,1,14.3673,87.8312,18,Evening
+UP,Varanasi,03-05-2024,01-01-1900 07:00,heavy rain,highway,4,2,1,14.8892,83.2474,7,Morning
+Telangana,Hyderabad,28-02-2023,01-01-1900 15:00,rain,city road,4,2,0,22.1463,78.3889,15,Afternoon
+Tamil Nadu,Coimbatore,29-02-2024,01-01-1900 09:00,rain,highway,4,2,1,17.9062,80.9291,9,Morning
+Delhi,New Delhi,04-04-2023,01-01-1900 20:00,storm,expressway,4,0,1,16.3008,79.1851,20,Evening
+Karnataka,Mangalore,24-10-2023,01-01-1900 05:00,rain,rural road,3,2,1,14.8749,79.613,5,Morning
+Telangana,Hyderabad,11-03-2023,01-01-1900 19:00,foggy,city road,1,0,0,23.9025,87.1113,19,Evening
+Karnataka,Mangalore,12-03-2024,01-01-1900 21:00,nan,city road,2,1,0,24.9318,87.4246,21,Night
+Bihar,Patna,05-01-2023,01-01-1900 22:00,rain,rural road,2,1,1,19.9419,83.5653,22,Night
+Telangana,Hyderabad,15-09-2023,01-01-1900 22:00,clear,highway,2,2,0,12.9889,78.016,22,Night
+Maharashtra,Nagpur,24-02-2023,01-01-1900 13:00,nan,rural road,1,1,1,25.4294,77.042,13,Afternoon
+Telangana,Hyderabad,29-01-2024,01-01-1900 07:00,foggy,highway,1,2,0,12.3154,78.1452,7,Morning
+Andhra Pradesh,Tirupati,30-01-2024,01-01-1900 07:00,rain,rural road,1,2,1,16.7332,77.0122,7,Morning
+UP,Varanasi,03-04-2023,01-01-1900 14:00,storm,rural road,3,0,1,14.6524,87.4027,14,Afternoon
+Telangana,Warangal,31-08-2023,01-01-1900 01:00,nan,expressway,4,0,0,16.8718,87.8124,1,Night
+Telangana,Nizamabad,26-03-2023,01-01-1900 07:00,rain,city road,3,1,0,14.6883,80.9028,7,Morning
+Maharashtra,Mumbai,26-04-2024,01-01-1900 20:00,foggy,highway,1,1,1,16.5469,80.1787,20,Evening
+UP,Kanpur,05-08-2023,01-01-1900 21:00,nan,rural road,4,1,0,16.9569,79.7495,21,Night
+Andhra Pradesh,Tirupati,31-07-2023,01-01-1900 01:00,rain,expressway,4,3,1,26.2401,80.7179,1,Night
+Andhra Pradesh,Tirupati,15-05-2023,01-01-1900 11:00,storm,highway,2,1,0,12.2943,87.0573,11,Morning
+Maharashtra,Nagpur,09-10-2023,01-01-1900 05:00,storm,highway,1,3,2,21.9306,79.2144,5,Morning
+UP,Varanasi,26-11-2023,01-01-1900 06:00,rain,city road,4,0,0,13.7088,87.4874,6,Morning
+UP,Kanpur,28-11-2023,01-01-1900 05:00,nan,rural road,4,1,0,17.599,85.6067,5,Morning
+Tamil Nadu,Chennai,09-11-2023,01-01-1900 20:00,foggy,expressway,3,2,2,19.5452,81.5303,20,Evening
+Maharashtra,Mumbai,01-01-2023,01-01-1900 03:00,storm,highway,1,3,0,16.3171,86.0755,3,Night
+Karnataka,Mangalore,21-12-2023,01-01-1900 01:00,storm,expressway,0,0,0,12.531,80.3434,1,Night
+Bihar,Bhagalpur,20-03-2023,01-01-1900 13:00,clear,expressway,4,0,1,17.2064,85.2114,13,Afternoon
+Tamil Nadu,Madurai,06-01-2024,01-01-1900 21:00,nan,highway,4,3,0,20.0502,86.4214,21,Night
+Tamil Nadu,Coimbatore,05-04-2023,01-01-1900 00:00,nan,highway,3,1,1,24.9741,86.1941,0,Night
+Telangana,Nizamabad,05-09-2023,01-01-1900 04:00,heavy rain,city road,4,2,2,12.771,80.9606,4,Night
+Bihar,Bhagalpur,05-03-2023,01-01-1900 11:00,rain,rural road,2,2,1,24.117,78.7784,11,Morning
+Karnataka,Mangalore,11-07-2023,01-01-1900 18:00,storm,highway,2,0,2,12.1117,81.4383,18,Evening
+UP,Lucknow,16-03-2024,01-01-1900 16:00,foggy,national highway,1,1,0,26.6798,80.1955,16,Afternoon
+Bihar,Patna,09-07-2023,01-01-1900 17:00,clear,national highway,3,1,0,21.7757,81.5213,17,Evening
